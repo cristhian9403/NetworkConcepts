@@ -73,7 +73,7 @@
 		<div class="input-group" STYLE="position:relative; top:10px; left:315px;" >
 		  <input type="text" class="form-control" placeholder="Buscar..." size="200px">
 		  <span class="input-group-btn">
-			<button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Ir</button>
+			<button class="btn btn-default" type="button"><a href="buscador/buscar.html"></a><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Ir</button>
 		  </span>
 		</div><!-- /input-group -->
 		</div>
