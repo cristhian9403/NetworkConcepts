@@ -69,11 +69,13 @@
 		</div>	
 		</div>	
 		
-		<div class="col-lg-3"> 
+	<div class="col-lg-3"> 
 		<div class="input-group" STYLE="position:relative; top:10px; left:315px;" >
 		  <input type="text" class="form-control" placeholder="Buscar..." size="200px">
 		  <span class="input-group-btn">
-			<button class="btn btn-default" type="button"><a href="buscador/buscar.html"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Ir</button>
+		  	<form action="buscador/buscar.html">
+			<button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Ir</button>
+			</form>
 		  </span>
 		</div><!-- /input-group -->
 		</div>
