@@ -219,12 +219,87 @@
 							<h3 align="justify"> <font color="#000080" ><b>Hardware y tecnologías de la Capa física</b></h3></font>
 							<br>
 							Las tecnologías definidas por estas organizaciones incluyen cuatro áreas de estándares de la capa física:
+							<br>
+							<br>
 							<ul type="disk">
 							<li>Propiedades físicas y eléctricas de los medios</li> 
 							<li>Propiedades mecánicas (materiales, dimensiones, diagrama de pines) de los conectores</li> 
 							<li>Representación de los bits por medio de las señales (codificación)</li> 
 							<li>Definición de las señales de la información de control</li>
 							</ul>
+							<br>
+							<h3 align="justify"> <font color="#000080" ><b>Tipos de Medios Físicos</b></h3></font>
+							<br>
+							La capa física se ocupa de la señalización y los medios de red. Esta capa produce la representación y agrupación de bits 
+							en voltajes, radiofrecuencia e impulsos de luz. Muchas organizaciones que establecen estándares han contribuido con la 
+							definición de las propiedades mecánicas, eléctricas y físicas de los medios disponibles para diferentes comunicaciones de 
+							datos. Estas especificaciones garantizan que los cables y conectores funcionen según lo previsto mediante diferentes 
+							implementaciones de la capa de Enlace de datos.
+							<br>
+							<br>
+							<h3 align="justify"> <font color="#000080" ><b>Medios de Cobre</b></h3></font>
+							<br>
+							El medio más utilizado para las comunicaciones de datos es el cableado que utiliza alambres de cobre para señalizar bits de
+							control y datos entre los dispositivos de red. El cableado utilizado para las comunicaciones de datos generalmente consiste 
+							en una secuencia de alambres individuales de cobre que forman circuitos que cumplen objetivos específicos de señalización. 
+							<br>
+							<br>
+							Otros tipos de cableado de cobre, conocidos como cables coaxiales, tienen un conductor simple que circula por el centro del 
+							cable envuelto por el otro blindaje, pero está aislado de éste. El tipo de medio de cobre elegido se especifica mediante el 
+							estándar de la capa física necesario para enlazar las capas de Enlace de datos de dos o más dispositivos de red.
+							<br>
+							<br>
+							Estos cables pueden utilizarse para conectar los nodos de una LAN a los dispositivos intermedios, como routers o switches. 
+							Los cables también se utilizan para conectar dispositivos WAN a un proveedor de servicios de datos, como una compañía telefónica. 
+							Cada tipo de conexión y sus dispositivos complementarios incluyen requisitos de cableado estipulados por los estándares de la 
+							capa física.
+							<br>
+							<br>
+							Los medios de red generalmente utilizan conectores y tomas. Estos elementos ofrecen conexión y desconexión sencillas. Además,
+							puede utilizarse un único tipo de conector físico para diferentes tipos de conexiones. Por ejemplo, el conector RJ-45 se utiliza 
+							ampliamente en las LAN con un tipo de medio y en algunas WAN con otro tipo.
+							<br>
+							<br>
+							Medios de Cobre mas utilizados:
+							<br>
+							<br>
+							<ul type="disk">
+							<li>El cableado de par trenzado no blindado (UTP)</li>
+							<li>Cable Coaxial</li>
+							<li>Cable de par trenzado blindado (STP)</li>
+							</ul>
+							<br>
+							<h3 align="justify"> <font color="#000080" ><b>Medios de Fibra</b></h3></font>
+							<br>
+							El cableado de fibra óptica utiliza fibras de plástico o de vidrio para guiar los impulsos de luz desde el origen hacia el 
+							destino. Los bits se codifican en la fibra como impulsos de luz. El cableado de fibra óptica puede generar velocidades muy 
+							superiores de ancho de banda para transmitir datos sin procesar. La mayoría de los estándares actuales de transmisión aún 
+							necesitan analizar el ancho de banda potencial de este medio.
+							<br>
+							<br>
+							En términos generales, los cables de fibra óptica pueden clasificarse en dos tipos: monomodo y multimodo.
+							<br>
+							<br>	
+							La fibra óptica monomodo transporta un sólo rayo de luz, generalmente emitido desde un láser. Este tipo de fibra puede 
+							transmitir impulsos ópticos en distancias muy largas, ya que la luz del láser es unidireccional y viaja a través del 
+							centro de la fibra. 
+							<br>
+							<br>	
+							La fibra óptica multimodo a menudo utiliza emisores LED que no generan una única ola de luz coherente. En cambio, la luz 
+							de un LED ingresa a la fibra multimodo en diferentes ángulos. 
+							<br>
+							<br>
+							<h3 align="justify"> <font color="#000080" ><b>Medios  inalámbricos</b></h3></font> 
+							<br>
+							Los medios inalámbricos transportan señales electromagnéticas mediante frecuencias de microondas y radiofrecuencias que 
+							representan los dígitos binarios de las comunicaciones de datos. Como medio de red, el sistema inalámbrico no se limita 
+							a conductores o canaletas, como en el caso de los medios de fibra o de cobre.
+							<br>
+							<br>
+							Las tecnologías inalámbricas de comunicación de datos funcionan bien en entornos abiertos. Sin embargo, existen determinados 
+							materiales de construcción utilizados en edificios y estructuras, además del terreno local, que limitan la cobertura efectiva. 
+							El medio inalámbrico también es susceptible a la interferencia y puede distorsionarse por dispositivos comunes como teléfonos 
+							inalámbricos domésticos, algunos tipos de luces fluorescentes, hornos microondas y otras comunicaciones inalámbricas.
 								
 							</div>
 						   </div>
