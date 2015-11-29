@@ -1,0 +1,32 @@
+ID:AR145
+
+	Origen:Bogota
+
+	Destino:Cali
+
+	F. Ida:2015-05-27
+
+	F. Regreso:2015-05-27
+
+	H. ida:8:30 am
+
+	H. Llegada:9:15 am
+
+	Precio:$59.990
+
+
+
+	Tarjeta de Credito:3333333333333
+
+	Nombres:dddddddddddddddd
+
+	Telefono:3333333333333333
+
+	Banco:Colmena
+
+	Apellidos:3333333333333333
+
+	Correo Electronico:4444444444444
+
+
+	Gracias por su compra

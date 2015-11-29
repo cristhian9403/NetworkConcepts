@@ -1,0 +1,50 @@
+.accesible div{
+	background-color:#000 !important;
+	color: #fff !important;
+}
+.accesible{
+	background-color:#000000 !important;
+	color: #fff !important;
+}
+
+.accesible ul{
+	background-color:#000 !important;
+	color: #fff !important;
+}
+.accesible li{
+	background-color:#000 !important;
+	color: #fff !important;
+}
+.accesible a{
+	background-color:#000 !important;
+	color: #fff !important;
+}
+
+.accesible body{
+	background-color:#000 !important;
+	color: #fff !important;
+}
+
+.accesible table{
+	background-color:#000 !important;
+	color: #fff !important;
+}
+
+.accesible p{
+	background-color:#000 !important;
+	color: #fff !important;
+}
+
+.sobre {
+max-width:70%;
+max-height:70%;
+}
+.zoom{
+        transition: 1.5s ease;
+        -webkit-transition: 1.5s ease; 
+    }
+ .zoom:hover{
+        transform : scale(1.2);
+        -webkit-transform : scale(1.2);          
+    }
+

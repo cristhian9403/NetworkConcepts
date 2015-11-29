@@ -1,0 +1,18 @@
+html,
+
+.zoom{
+        transition: 1.5s ease;
+        -webkit-transition: 1.5s ease; 
+    }
+ .zoom:hover{
+        transform : scale(1.2);
+        -webkit-transform : scale(1.2);          
+    }
+
+
+
+
+
+
+
+

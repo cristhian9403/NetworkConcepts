@@ -1,0 +1,5 @@
+.carrousell{ position:absolute; z-index: -2;}
+.carousel-inner{position: realtive; z-index: -1; width: 100%; overflow:hidden;}
+diligenciar{background-color: #FFFFFF; border: 1.5px solid #0000FF; opacity:0.8} 
+div.footer{ position: relative; clear: left; width: 100%; height:100px;  background-color: #F0FFFF; border: 1.5px solid #0000FF;} 
+.container-fluid:{width: 100%;}
