@@ -88,11 +88,21 @@
 		</div><!-- /input-group -->
 		</div>
 		
+		<div class="row">
+                 		<section class="posts col-md-12" STYLE=" top:20px; left:1px;">
+                 				<ol class="breadcrumb">
+                 					<li>
+             					       <a href="principal.php"><small>Inicio</small></a> 
+             				       </li>
+             				       <li class="active"><small>Capitulo 3</small></li>	
+                 		</section>
+             </div>
+		
 		<br>
 		<br>
 		
 
-		<div STYLE="position:relative; top:1.8px; left:50px; width:1100px;" >
+		<div STYLE="position:relative; top:-40px; left:50px; width:1100px;" >
 						
 					<div class="col-sm-6" STYLE="left:-65px; width:550px;" >
 									
@@ -231,7 +241,7 @@
 			 	
 		</div>		
 
-	<div class="col-md-12" STYLE=" left:-17px; width:1132px;  top:-15px;  margin-bottom: -100px;" >	
+	<div class="col-md-12" STYLE=" left:-17px; width:1132px;  top:-60px;  margin-bottom: -100px;" >	
 	
 		<nav class="navbar navbar-default "  >
 		
@@ -241,7 +251,7 @@
     <li class="next"><a href="#"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
 	<li><a href="#"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
 	<li><a href="#"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" > Laboratorio</font></span></a></li>
-	<li><a href="https://www.dropbox.com/s/otxjrs8maablpmx/ww.jpg?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
+	<li><a target="_blank" href="https://www.dropbox.com/s/98ds8r8zq29rh3z/Cisco_Packet_Tracer_6.1_for_Windows.exe?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
 	<li><a href="principal.php"><img src="imagenes/home.png"><span aria-hidden="true"><font color="#000080" > Inicio</font></span></a></li>
   </ul>
   

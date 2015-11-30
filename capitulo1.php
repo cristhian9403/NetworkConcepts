@@ -67,7 +67,9 @@
 			<a href="javascript:increaseFontSize();" class="btn">Aumentar el Tamano A+</a>
 		
 		</div>	
+	
 		</div>	
+	
 		
 		<div class="col-lg-3"> 
 		<div class="input-group" STYLE="position:relative; top:10px; left:315px;" >
@@ -79,12 +81,21 @@
 		  </span>
 		</div><!-- /input-group -->
 		</div>
-		
+			
+			<div class="row">
+                 		<section class="posts col-md-12" STYLE=" top:20px; left:1px;">
+                 				<ol class="breadcrumb">
+                 					<li>
+             					       <a href="principal.php"><small>Inicio</small></a> 
+             				       </li>
+             				       <li class="active"><small>Capitulo 1</small></li>	
+                 		</section>
+             </div>
 		<br>
 		<br>
 		
 
-		<div STYLE="position:relative; top:1.8px; left:50px; width:1100px;" >
+		<div STYLE="position:relative; top:-40px; left:50px; width:1100px;" >
 						
 					<div class="col-sm-6" STYLE="left:-65px; width:550px;" >
 									
@@ -182,7 +193,7 @@
 			 	
 		</div>		
 
-	<div class="col-md-12" STYLE=" left:-17px; width:1132px;  top:-150px;  margin-bottom: -100px;" >	
+	<div class="col-md-12" STYLE=" left:-17px; width:1132px;  top:-190px;  margin-bottom: -100px;" >	
 	
 		<nav class="navbar navbar-default "  >
 		
@@ -191,8 +202,8 @@
     <li class="previous"><a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="#" ><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
     <li class="next"><a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="capitulo2.php"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="ITEMS-DE-INFORMACION.pdf"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
-	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="#"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" > Laboratorio</font></span></a></li>
-	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="https://www.dropbox.com/s/otxjrs8maablpmx/ww.jpg?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
+	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="#"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080"> Laboratorio</font></span></a></li>
+	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="https://www.dropbox.com/s/98ds8r8zq29rh3z/Cisco_Packet_Tracer_6.1_for_Windows.exe?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="principal.php"><img src="imagenes/home.png"><span aria-hidden="true"><font color="#000080" > Inicio</font></span></a></li>
   </ul>
   
