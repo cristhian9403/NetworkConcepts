@@ -70,7 +70,7 @@
 										<li><a href=""><small>Capítulo 6</small></a></li>
 										<li><a href="capitulo7.php"><small>Capítulo 7</small></a></li>
 										<li><a href="capitulo8.php"><small>Capítulo 8</small></a></li>
-										<li><a href=""><small>Capítulo 9</small></a></li>
+										<li><a href="capitulo9.php"><small>Capítulo 9</small></a></li>
 									</ul>
 		</div>
 				
