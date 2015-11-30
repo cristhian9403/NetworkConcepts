@@ -202,7 +202,6 @@
     <li class="previous"><a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="#" ><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
     <li class="next"><a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="capitulo2.php"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="ITEMS-DE-INFORMACION.pdf"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
-	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="#"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080"> Laboratorio</font></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="https://www.dropbox.com/s/98ds8r8zq29rh3z/Cisco_Packet_Tracer_6.1_for_Windows.exe?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="principal.php"><img src="imagenes/home.png"><span aria-hidden="true"><font color="#000080" > Inicio</font></span></a></li>
   </ul>
