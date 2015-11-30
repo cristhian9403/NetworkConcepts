@@ -289,7 +289,7 @@
 							de un LED ingresa a la fibra multimodo en diferentes ángulos. 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Medios  inalámbricos</b></h3></font> 
+							<h3 align="justify"> <font color="#000080" ><b>Medios  Inalámbricos</b></h3></font> 
 							<br>
 							Los medios inalámbricos transportan señales electromagnéticas mediante frecuencias de microondas y radiofrecuencias que 
 							representan los dígitos binarios de las comunicaciones de datos. Como medio de red, el sistema inalámbrico no se limita 
@@ -309,19 +309,19 @@
 			<div class="col-sm-6" >
 				<div class="row">
 					<div class="col-md-6" STYLE="left:-17px;">						
-						<a href="imagenes/vivir.jpg" data-lightbox="galeria" data-title="Recursos Disponibles en Internet"><img src="imagenes/vivir.jpg" class="img-thumbnail"  /></a>					
+						<a href="imagenes/principios.jpg" data-lightbox="galeria" data-title="Principios de la Capa Fisica"><img src="imagenes/principios.jpg" title="Principios de la Capa Fisica" class="img-thumbnail"  /></a>					
 				   </div>
 								
 					<div class="col-md-6 " STYLE="left:-35px; height:150px;">					
-						<a href="imagenes/aprender.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Aprendemos"><img src="imagenes/aprender.jpg"  class="img-thumbnail"   /></a>												
+						<a href="imagenes/mcobre.jpg" data-lightbox="galeria" data-title="Medios de Cobre"><img src="imagenes/mcobre.jpg" title="Medios de Cobre" class="img-thumbnail"   /></a>												
 					</div>	
 					
 					<div class="col-md-6 " STYLE="left:-290px; top:24px;">								
-						<a href="imagenes/trabajar.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Trabajamos"><img src="imagenes/trabajar.jpg"  class="img-thumbnail"  /></a>							
+						<a href="imagenes/mfibra.jpg" data-lightbox="galeria" data-title="Medios de Fibra"><img src="imagenes/mfibra.jpg" title="Medios de de Fibra" class="img-thumbnail"  /></a>							
 					</div>	
 
 					<div class="col-md-6 " STYLE="left:240px; top:-140px;">		
-						<a href="imagenes/jugar.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Trabajamos"><img src="imagenes/jugar.jpg"  class="img-thumbnail" /></a>							
+						<a href="imagenes/minalambricos.jpg" data-lightbox="galeria" data-title="Medios Inalámbricos"><img src="imagenes/minalambricos.jpg" title="Medios Inalámbricos" class="img-thumbnail" /></a>							
 					</div>	
 				</div>
 				<br>
