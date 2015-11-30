@@ -293,19 +293,19 @@
 			<div class="col-sm-6" >
 				<div class="row">
 					<div class="col-md-6" STYLE="left:-17px;">						
-						<a href="imagenes/D4.jpg" data-lightbox="galeria" data-title="Direccionamiento de la Red:IPv4"><img src="imagenes/D4.jpg" title="Direccionamiento de la Red: IPv4" class="img-thumbnail"  /></a>					
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/D4.jpg" data-lightbox="galeria" data-title="Direccionamiento de la Red:IPv4"><img src="imagenes/D4.jpg" title="Direccionamiento de la Red: IPv4" class="img-thumbnail"  /></a>					
 				   </div>
 								
 					<div class="col-md-6 " STYLE="left:-35px; height:150px;">					
-						<a href="imagenes/D3.jpg" data-lightbox="galeria" data-title="Tipos de Direcciones de Red"><img src="imagenes/D3.jpg" title="Tipos de Direcciones de Red" class="img-thumbnail"   /></a>												
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/D3.jpg" data-lightbox="galeria" data-title="Tipos de Direcciones de Red"><img src="imagenes/D3.jpg" title="Tipos de Direcciones de Red" class="img-thumbnail"   /></a>												
 					</div>	
 					
 					<div class="col-md-6 " STYLE="left:-290px; top:24px;">								
-						<a href="imagenes/D1.jpg" data-lightbox="galeria" data-title="Calculo de los Tipos de Direcciones de red"><img src="imagenes/D1.jpg" title="Calculo de los Tipos de Direcciones de Red" class="img-thumbnail"  /></a>							
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/D1.jpg" data-lightbox="galeria" data-title="Calculo de los Tipos de Direcciones de red"><img src="imagenes/D1.jpg" title="Calculo de los Tipos de Direcciones de Red" class="img-thumbnail"  /></a>							
 					</div>	
 
 					<div class="col-md-6 " STYLE="left:240px; top:-140px;">		
-						<a href="imagenes/D2.jpg" data-lightbox="galeria" data-title="Principios de Division en Subredes"><img src="imagenes/D2.jpg" title="Principios de Division en Subredes" class="img-thumbnail" /></a>							
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/D2.jpg" data-lightbox="galeria" data-title="Principios de Division en Subredes"><img src="imagenes/D2.jpg" title="Principios de Division en Subredes" class="img-thumbnail" /></a>							
 					</div>	
 				</div>
 				<br>

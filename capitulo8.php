@@ -309,19 +309,19 @@
 			<div class="col-sm-6" >
 				<div class="row">
 					<div class="col-md-6" STYLE="left:-17px;">						
-						<a href="imagenes/principios.jpg" data-lightbox="galeria" data-title="Principios de la Capa Fisica"><img src="imagenes/principios.jpg" title="Principios de la Capa Fisica" class="img-thumbnail"  /></a>					
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/principios.jpg" data-lightbox="galeria" data-title="Principios de la Capa Fisica"><img src="imagenes/principios.jpg" title="Principios de la Capa Fisica" class="img-thumbnail"  /></a>					
 				   </div>
 								
 					<div class="col-md-6 " STYLE="left:-35px; height:150px;">					
-						<a href="imagenes/mcobre.jpg" data-lightbox="galeria" data-title="Medios de Cobre"><img src="imagenes/mcobre.jpg" title="Medios de Cobre" class="img-thumbnail"   /></a>												
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/mcobre.jpg" data-lightbox="galeria" data-title="Medios de Cobre"><img src="imagenes/mcobre.jpg" title="Medios de Cobre" class="img-thumbnail"   /></a>												
 					</div>	
 					
 					<div class="col-md-6 " STYLE="left:-290px; top:24px;">								
-						<a href="imagenes/mfibra.jpg" data-lightbox="galeria" data-title="Medios de Fibra"><img src="imagenes/mfibra.jpg" title="Medios de de Fibra" class="img-thumbnail"  /></a>							
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/mfibra.jpg" data-lightbox="galeria" data-title="Medios de Fibra"><img src="imagenes/mfibra.jpg" title="Medios de de Fibra" class="img-thumbnail"  /></a>							
 					</div>	
 
 					<div class="col-md-6 " STYLE="left:240px; top:-140px;">		
-						<a href="imagenes/minalambricos.jpg" data-lightbox="galeria" data-title="Medios Inalámbricos"><img src="imagenes/minalambricos.jpg" title="Medios Inalámbricos" class="img-thumbnail" /></a>							
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/minalambricos.jpg" data-lightbox="galeria" data-title="Medios Inalámbricos"><img src="imagenes/minalambricos.jpg" title="Medios Inalámbricos" class="img-thumbnail" /></a>							
 					</div>	
 				</div>
 				<br>

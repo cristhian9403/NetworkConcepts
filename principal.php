@@ -64,7 +64,7 @@
 										<li><a href="capitulo2.3.3.php">2.3.3 Medios de Red</a></li>
 										</ul>
 										</li>
-										<li><a href=""><small>Capítulo 3</small></a></li>
+										<li><a href="capitulo3.php"><small>Capítulo 3</small></a></li>
 										<li><a href="capitulo4.php"><small>Capítulo 4</small></a></li>
 										<li><a href="capitulo5.php"><small>Capítulo 5</small></a></li>
 										<li><a href="capitulo6.php"><small>Capítulo 6</small></a></li>

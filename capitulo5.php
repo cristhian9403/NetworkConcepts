@@ -213,11 +213,11 @@
 			<div class="col-sm-6" >
 				<div class="row">
 					<div class="col-md-6" STYLE="left:-17px;">						
-						<a href="imagenes/R1.jpg" data-lightbox="galeria" data-title="Capa de Red"><img src="imagenes/R1.jpg" title="Capa de Red" class="img-thumbnail"  /></a>					
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/R1.jpg" data-lightbox="galeria" data-title="Capa de Red"><img src="imagenes/R1.jpg" title="Capa de Red" class="img-thumbnail"  /></a>					
 				   </div>
 								
 					<div class="col-md-6 " STYLE="left:-35px; height:150px;">					
-						<a href="imagenes/R2.jpg" data-lightbox="galeria" data-title="IPv4"><img src="imagenes/R2.jpg" title="IPv4" class="img-thumbnail"   /></a>												
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/R2.jpg" data-lightbox="galeria" data-title="IPv4"><img src="imagenes/R2.jpg" title="IPv4" class="img-thumbnail"   /></a>												
 					</div>	
 					
 					

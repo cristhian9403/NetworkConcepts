@@ -242,7 +242,7 @@
 												
 						    <div class="col-lg-12" style="top:8px; width:528px; left:-15px;" >
 								 <div class="panel panel-info" style="text-align: justify; "    >
-									<small><b>Descripción del Video:</b> este video presenta uno de los dispositivos intermediadiarios mas utilizados como es el Router. </small> 
+									<small><b>Descripción del Video:</b> este video explica la funcionalidad de la capa de transporte. </small> 
 								 </div>
 						    </div>		<!-- Start VideoLightBox.com HEAD section 
 									<video controls class="img-responsive" style="width:500px; " >

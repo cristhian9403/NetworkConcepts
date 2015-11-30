@@ -99,112 +99,104 @@
 						<div id="Layer1" style="width:550px; height:415px; overflow:scroll;">
 							<div class="panel panel-default" >
 							<div class="panel-body" style="text-align: justify;" >
-							 <h3 align="center"> <font color="#000080" ><b> 5. Capa de Red del Modelo OSI </b></h3></font>
+							 <h3 align="center"> <font color="#000080" ><b> 3. Protocolos y Funcionalidad de la Capa de Aplicación </b></h3></font>
 							 <br>
-							 <h3 align="justify"> <font color="#000080" ><b>Definición</b></h3></font>
+							 <h3 align="justify"> <font color="#000080" ><b>Modelo OSI y Modelo TCP/IP</b></h3></font>
 							<br>
-							 La Capa de red o Capa 3 de OSI es aquella que provee servicios para intercambiar secciones de datos individuales a través de 
-							 la red  entre dispositivos finales identificados.
+							 El modelo de referencia de interconexión de sistemas abiertos es una representación abstracta en capas, creada como guía para 
+							 el diseño del protocolo de red. El modelo OSI divide el proceso de networking en diferentes capas lógicas, cada una de las 
+							 cuales tiene una única funcionalidad y a la cual se le asignan protocolos y servicios específicos. 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Funcionalidad</b></h3></font>
+							En este modelo, la información se pasa de una capa a otra, comenzando en la capa de Aplicación en el host de transmisión,
+							siguiendo por la jerarquía hacia la capa Física, pasando por el canal de comunicaciones al host de destino, donde la 
+							información vuelve a la jerarquía y termina en la capa de Aplicación. 
 							 <br>
-							 Para realizar el transporte de datos de extremo a extremo la Capa 3 utiliza cuatro procesos básicos:
-							 <br>
+							<br>
+							Aunque el grupo de protocolos TCP/IP se desarrolló antes de la definición del modelo OSI, la funcionalidad de los protocolos de
+							capa de aplicación de TCP/IP se adaptan aproximadamente a la estructura de las tres capas superiores del modelo OSI: Capas de 
+							Aplicación, Presentación y Sesión.
+							<br>
+							<br>
+							La mayoría de los protocolos de capa de aplicación de TCP/IP se desarrollaron antes de la aparición de computadoras personales, 
+							interfaces del usuario gráficas y objetos multimedia. Como resultado, estos protocolos implementan muy poco de la funcionalidad 
+							que se especifica en las capas de Sesión y Presentación del modelo OSI.
+							<br>
+							<br>
+							 <h3 align="justify"> <font color="#000080" ><b>Definición de la Capa de Aplicación</b></h3></font>
+							<br>
+							 La capa de Aplicación, Capa siete, es la capa superior de los modelos OSI y TCP/IP. Es la capa que proporciona la interfaz 
+							 entre las aplicaciones que utilizamos para comunicarnos y la red subyacente en la cual se transmiten los mensajes. 
+							<br>
+							<br>
+							Los protocolos de capa de aplicación se utilizan para intercambiar los datos entre los programas que se ejecutan en los hosts 
+							de origen y destino. Existen muchos protocolos de capa de aplicación y siempre se desarrollan protocolos nuevos.
+							<br>
+							<br>
+							De acuerdo al modelo TCP/IP la capa de aplicación esta comprendida por las capas de Presentacion y Sesion del modelo OSI, las 
+							cuales se explican a continuacion:
+							<br>
+							<br>
+							<h3 align="justify"> <font color="#000080" ><b>Capa de Presentación</b></h3></font>
+							<br>
+							La capa de Presentación tiene tres funciones primarias:
+							<br>
 							<br>
 							<ul type="disk">
-							<li>Direccionamiento,</li>
-							<li>Encapsulamiento,</li>
-							<li>Enrutamiento , y</li>
-							<li>Desencapsulamiento.</li>
+							<li>Codificación y conversión de datos de la capa de aplicación para garantizar que los datos del dispositivo de origen puedan ser 
+							interpretados por la aplicación adecuada en el dispositivo de destino.</li>
+							<li>Compresión de los datos de forma que puedan ser descomprimidos por el dispositivo de destino.</li>
+							<li>Encriptación de los datos para transmisión y descifre de los datos cuando se reciben en el destino.</li>
 							</ul>
 							<br>
+							Las implementaciones de la capa de presentación generalmente no se vinculan con una stack de protocolos determinada. Los 
+							estándares para vídeos y gráficos son algunos ejemplos. Dentro de los estándares más conocidos para vídeo encontramos 
+							QuickTime y el Grupo de expertos en películas (MPEG). QuickTime es una especificación de Apple Computer para audio y vídeo, 
+							y MPEG es un estándar para la codificación y compresión de vídeos. 
+							<br>
+							<br>
+							Dentro de los formatos de imagen gráfica más conocidos encontramos Formato de intercambio gráfico (GIF), Grupo de expertos 
+							en fotografía (JPEG) y Formato de archivo de imagen etiquetada (TIFF). GIF y JPEG son estándares de compresión y codificación 
+							para imágenes gráficas, y TIFF es una formato de codificación estándar para imágenes gráficas. 
+							<br>
+							<br>
+							<h3 align="justify"> <font color="#000080" ><b>Capa de Sesión</b></h3></font>
+							<br>
+							Como lo indica el nombre de la capa de Sesión, las funciones en esta capa crean y mantienen diálogos entre las aplicaciones de 
+							origen y destino. La capa de sesión maneja el intercambio de información para iniciar los diálogos y mantenerlos activos, y 
+							para reiniciar sesiones que se interrumpieron o desactivaron durante un periodo de tiempo prolongado. 
+							<br>
+							<br>
+							La mayoría de las aplicaciones, como los exploradores Web o los clientes de correo electrónico, incorporan la funcionalidad de 
+							las capas 5, 6 y 7 del modelo OSI.
+							<br>
+							<br>
+							<h3 align="justify"> <font color="#000080" ><b>Protocolos de la Capa de Aplicación</b></h3></font> 
+							<br>
+							Los protocolos de capa de aplicación de TCP/IP más conocidos son aquellos que proporcionan intercambio de la información del 
+							usuario. Estos protocolos especifican la información de control y formato necesaria para muchas de las funciones de comunicación 
+							de Internet más comunes. Algunos de los protocolos TCP/IP son:
+							<br>
+							<br>
+						<ul type="disk">
+						<li> El protocolo Servicio de nombres de dominio (DNS, Domain Name Service) se utiliza para resolver nombres de Internet en 
+							 direcciones IP.</li>
+						<li> El protocolo de transferencia de hipertexto (HTTP, Hypertext Transfer Protocol) se utiliza para transferir archivos que 
+							 forman las páginas Web de la World Wide Web.</li>
+						<li>El Protocolo simple de transferencia de correo (SMTP) se utiliza para la transferencia de mensajes de correo y adjuntos.
+							Telnet, un protocolo de emulación de terminal, se utiliza para proporcionar acceso remoto a servidores y a dispositivos 
+							de red.</li>
+						<li>El Protocolo de transferencia de archivos (FTP, File Transfer Protocol) se utiliza para la tansferencia interactiva de 
+							archivos entre sistemas.</li>
+						</ul>
+						<br>
+							Los protocolos de la suite TCP/IP generalmente son definidos por Solicitudes de comentarios (RFCS). El Grupo de trabajo 
+							de ingeniería de Internet mantiene las RFCS como los estándares para el conjunto TCP/IP.
+
 							
-							<h3 align="justify"> <font color="#000080" ><b>Direccionamiento</b></h3></font>
-							<br>
-							Primero, la Capa de red debe proveer un mecanismo para direccionar estos dispositivos finales. Si las secciones individuales
-							de datos deben dirigirse a un dispositivo final, este dispositivo debe tener una dirección única. En una red IPv4, cuando se 
-							agrega esta dirección a un dispositivo, al dispositivo se lo denomina host. 
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Encapsulación</b></h3></font>
-							<br>
-							Segundo, la capa de Red debe proveer encapsulación. Los dispositivos no deben ser identificados sólo con una dirección; las 
-							secciones individuales, las PDU de la capa de Red, deben, además, contener estas direcciones. Durante el proceso de 
-							encapsulación, la Capa 3 recibe la PDU de la Capa 4 y agrega un encabezado o etiqueta de Capa 3 para crear la PDU de la Capa 3.
-							Cuando nos referimos a la capa de Red, denominamos paquete a esta PDU. Cuando se crea un paquete, el encabezado debe contener, 
-							entre otra información, la dirección del host hacia el cual se lo está enviando. A esta dirección se la conoce como dirección 
-							de destino. El encabezado de la Capa 3 también contiene la dirección del host de origen. A esta dirección se la llama dirección 
-							de origen.
-							<br>
-							<br>
-							Después de que la Capa de red completa el proceso de encapsulación, el paquete es enviado a la capa de enlace de datos que ha 
-							de prepararse para el transporte a través de los medios.
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Enrutamiento</b></h3></font>
-							<br>
-							Luego, la capa de red debe proveer los servicios para dirigir estos paquetes a su host destino. Los host de origen y destino no 
-							siempre están conectados a la misma red. En realidad, el paquete podría recorrer muchas redes diferentes. A lo largo de la ruta, 
-							cada paquete debe ser guiado a través de la red para que llegue a su destino final. Los dispositivos intermediarios que conectan 
-							las redes son los routers. La función del router es seleccionar las rutas y dirigir paquetes hacia su destino. A este proceso se 
-							lo conoce como enrutamiento.
-							<br>
-							<br>
-							Durante el enrutamiento a través de una internetwork, el paquete puede recorrer muchos dispositivos intermediarios. A cada ruta 
-							que toma un paquete para llegar al próximo dispositivo se la llama salto. A medida que el paquete es enviado, su contenido 
-							(la PDU de la Capa de transporte) permanece intacto hasta que llega al host destino.
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Desencapsulamiento</b></h3></font>
-							<br>
-							Finalmente, el paquete llega al host destino y es procesado en la Capa 3. El host examina la dirección de destino para verificar
-							que el paquete fue direccionado a ese dispositivo. Si la dirección es correcta, el paquete es desencapsulado por la capa de Red y 
-							la PDU de la Capa 4 contenida en el paquete pasa hasta el servicio adecuado en la capa de Transporte. 
-							<br>
-							<br>
-							A diferencia de la capa de Transporte (Capa 4 de OSI), que administra el transporte de datos entre los procesos que se ejecutan 
-							en cada host final, los protocolos especifican la estructura y el procesamiento del paquete utilizados para llevar los datos 
-							desde un host hasta otro host. Operar ignorando los datos de aplicación llevados en cada paquete permite a la capa de Red 
-							llevar paquetes para múltiples tipos de comunicaciones entre hosts múltiples.
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Protocolos de capa de Red</b></h3></font>
-							<br>
-							Los protocolos implementados en la capa de Red que llevan datos del usuario son:
-							<br>
-							<br>
-							<ul type="disk">
-							<li>versión 4 del Protocolo de Internet (IPv4),</li>
-							<li>versión 6 del Protocolo de Internet (IPv6),</li>
-							<li>intetercambio Novell de paquetes de internetwork (IPX),</li>
-							<li>AppleTalk, y</li>
-							<li>servicio de red sin conexión (CLNS/DECNet).</li>
-							</ul>
-							<br>
-							El Protocolo de Internet (IPv4 y IPv6) es el protocolo de transporte de datos de la capa 3 más ampliamene utilizado y será el
-							tema de este curso. Los demás protocolos no serán abordados en profundidad.
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>IPv4</b></h3></font>
-							<br>
-							Como se muestra en la figura llamada Protocolo IPv4, los servicios de capa de Red implementados por el conjunto de protocolos TCP/IP son el Protocolo 
-							de Internet (IP). La versión 4 de IP (IPv4) es la versión de IP más ampliamente utilizada. Es el único protocolo de Capa 3 que 
-							se utiliza para llevar datos de usuario a través de Internet.
-							<br>
-							<br>
-							El Protocolo de Internet fue diseñado como un protocolo con bajo costo. Provee sólo las funciones necesarias para enviar un 
-							paquete desde un origen a un destino a través de un sistema interconectado de redes. El protocolo no fue diseñado para 
-							rastrear ni administrar el flujo de paquetes. Estas funciones son realizadas por otros protocolos en otras capas.
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Características básicas de IPv4:</b></h3></font>
-							<br>
-							<ul type="disk">
-							<li><b>Sin conexión:</b> No establece conexión antes de enviar los paquetes de datos.</li>
-							<li><b>Máximo esfuerzo (no confiable):</b>  No se usan encabezados para garantizar la entrega de paquetes.</li>
-							<li><b>Medios independientes:</b>  Operan independientemente del medio que lleva los datos.</li>
-							</ul>								
+							
+							
+											
 							</div>
 						   </div>
 					    </div>
@@ -213,11 +205,11 @@
 			<div class="col-sm-6" >
 				<div class="row">
 					<div class="col-md-6" STYLE="left:-17px;">						
-						<a href="imagenes/R1.jpg" data-lightbox="galeria" data-title="Capa de Red"><img src="imagenes/R1.jpg" title="Capa de Red" class="img-thumbnail"  /></a>					
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/A1.jpg" data-lightbox="galeria" data-title="Modelo OSI y TCP/IP"><img src="imagenes/A1.jpg" title="Modelo OSI y TCP/IP" class="img-thumbnail"  /></a>					
 				   </div>
 								
 					<div class="col-md-6 " STYLE="left:-35px; height:150px;">					
-						<a href="imagenes/R2.jpg" data-lightbox="galeria" data-title="IPv4"><img src="imagenes/R2.jpg" title="IPv4" class="img-thumbnail"   /></a>												
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/A2.jpg" data-lightbox="galeria" data-title="Protocolos de la Capa de Aplicación"><img src="imagenes/A2.jpg" title="Protocolos de la Capa de Aplicación" class="img-thumbnail"   /></a>												
 					</div>	
 					
 					
@@ -225,13 +217,13 @@
 				<br>
 				<div class="col-sm-6" style=" left:-32px; top:-18px;">
 				<div class="videogallery"  >
-								<a class="voverlay" href="index_videolb/vdbplayer.swf?volume=100&url=video/video_1448842238.mp4" title="Video: funcionamiento de la Capa de Red"><img src="index_videolb/thumbnails/video_1448842238.png" alt="capa_de_transporte" /><span></span></a><span class="videolb"><a href="http://videolightbox.com">html video</a> by VideoLightBox.com v3.1</span>
+								<a  class="voverlay" href="index_videolb/vdbplayer.swf?volume=100&url=video/video_1448847677.mp4" title="Video: Funcionamiento de la Capa de Aplicacion"><img src="index_videolb/thumbnails/video_1448847677.png" alt="capa_de_transporte" /><span></span></a><span class="videolb"><a href="http://videolightbox.com">html video</a> by VideoLightBox.com v3.1</span>
 							</div>
 			</div>
 			
 			<div class="col-lg-12" style="top:-10px; width:528px; left:-30px;" >
 								 <div class="panel panel-info" style="text-align: justify; "    >
-									<small><b>Descripción del Video:</b> este video muestra los procesos que utiliza la capa 3 para el intercambio de datos a traves de la red. </small> 
+									<small><b>Descripción del Video:</b> este video expone la funcionalidad de la capa de Aplicación a traves de la red subyacente. </small> 
 								 </div>
 						    </div>	
 			</div>

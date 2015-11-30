@@ -160,19 +160,19 @@
 			<div class="col-sm-6" >
 				<div class="row">
 					<div class="col-md-6" STYLE="left:-17px;">						
-						<a href="imagenes/vivir.jpg" data-lightbox="galeria" data-title="Recursos Disponibles en Internet"><img src="imagenes/vivir.jpg" class="img-thumbnail"  /></a>					
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/vivir.jpg" data-lightbox="galeria" data-title="Recursos Disponibles en Internet"><img src="imagenes/vivir.jpg" class="img-thumbnail"  /></a>					
 				   </div>
 								
 					<div class="col-md-6 " STYLE="left:-35px; height:150px;">					
-						<a href="imagenes/aprender.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Aprendemos"><img src="imagenes/aprender.jpg"  class="img-thumbnail"   /></a>												
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/aprender.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Aprendemos"><img src="imagenes/aprender.jpg"  class="img-thumbnail"  /></a>												
 					</div>	
 					
 					<div class="col-md-6 " STYLE="left:-290px; top:24px;">								
-						<a href="imagenes/trabajar.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Trabajamos"><img src="imagenes/trabajar.jpg"  class="img-thumbnail"  /></a>							
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/trabajar.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Trabajamos"><img src="imagenes/trabajar.jpg"  class="img-thumbnail"  /></a>							
 					</div>	
 
 					<div class="col-md-6 " STYLE="left:240px; top:-140px;">		
-						<a href="imagenes/jugar.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Trabajamos"><img src="imagenes/jugar.jpg"  class="img-thumbnail" /></a>							
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/jugar.jpg" data-lightbox="galeria" data-title="Redes que Respaldan la Forma en que Trabajamos"><img src="imagenes/jugar.jpg"  class="img-thumbnail" /></a>							
 					</div>	
 				</div>
 				<br>
@@ -188,12 +188,12 @@
 		
 		
   <ul class="pager" >
-    <li class="previous" ><a href="#" ><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
-    <li class="next"><a href="#"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
+    <li class="previous"><a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="#" ><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
+    <li class="next"><a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="capitulo2.php"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="#"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
-	<li><a href="#"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" > Laboratorio</font></span></a></li>
-	<li><a href="https://www.dropbox.com/s/otxjrs8maablpmx/ww.jpg?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
-	<li><a href="principal.php"><img src="imagenes/home.png"><span aria-hidden="true"><font color="#000080" > Inicio</font></span></a></li>
+	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="#"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" > Laboratorio</font></span></a></li>
+	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="https://www.dropbox.com/s/otxjrs8maablpmx/ww.jpg?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
+	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="principal.php"><img src="imagenes/home.png"><span aria-hidden="true"><font color="#000080" > Inicio</font></span></a></li>
   </ul>
   
   

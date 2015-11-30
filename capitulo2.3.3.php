@@ -134,19 +134,19 @@
 			<div class="col-sm-6" >
 				<div class="row">
 					<div class="col-md-6" STYLE="left:-17px;">						
-						<a href="imagenes/medios.png" data-lightbox="galeria" data-title="Medios de Red"><img src="imagenes/medios.png"  title="Medios de Red" class="img-thumbnail"  /></a>					
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/medios.png" data-lightbox="galeria" data-title="Medios de Red"><img src="imagenes/medios.png"  title="Medios de Red" class="img-thumbnail"  /></a>					
 				   </div>
 								
 					<div class="col-md-6 " STYLE="left:-35px; height:150px;">					
-						<a href="imagenes/cobre.jpg" data-lightbox="galeria" data-title="Medios de Cobre"><img src="imagenes/cobre.jpg" title="Medios de Cobre" class="img-thumbnail"   /></a>												
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/cobre.jpg" data-lightbox="galeria" data-title="Medios de Cobre"><img src="imagenes/cobre.jpg" title="Medios de Cobre" class="img-thumbnail"   /></a>												
 					</div>	
 					
 					<div class="col-md-6 " STYLE="left:-290px; top:24px;">								
-						<a href="imagenes/fibra.jpg" data-lightbox="galeria" data-title="Medios de Fibra Óptica"><img src="imagenes/fibra.jpg" title="Medios de Fibra Óptica"  class="img-thumbnail"  /></a>							
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/fibra.jpg" data-lightbox="galeria" data-title="Medios de Fibra Óptica"><img src="imagenes/fibra.jpg" title="Medios de Fibra Óptica"  class="img-thumbnail"  /></a>							
 					</div>	
 
 					<div class="col-md-6 " STYLE="left:240px; top:-140px;">		
-						<a href="imagenes/inalambrico.jpg" data-lightbox="galeria" data-title="Medios Inalámbricos"><img src="imagenes/inalambrico.jpg"  title="Medios Inalámbricos" class="img-thumbnail" /></a>							
+						<a class="zoom sobre img-circle" onmouseover="primero.playclip()" href="imagenes/inalambrico.jpg" data-lightbox="galeria" data-title="Medios Inalámbricos"><img src="imagenes/inalambrico.jpg"  title="Medios Inalámbricos" class="img-thumbnail" /></a>							
 					</div>	
 				</div>
 				<br>
