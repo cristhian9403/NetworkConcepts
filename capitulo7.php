@@ -110,14 +110,14 @@
 							<div class="panel-body" style="text-align: justify;" >
 							 <h3 align="center"> <font color="#000080" ><b> 7. Capa de Enlace de Datos </b></h3></font>
 							 <br>
-							 <h3 align="justify"> <font color="#000080" ><b>Definición</b></h3></font>
+							 <h4 align="justify"> <font color="#000080" ><b>Definición</b></h4></font>
 							 <br>
 								La capa de enlace de datos es aquella que proporciona un medio para intercambiar datos a través de medios 
 								locales comunes. La Capa de enlace de datos prepara un paquete para transportar a través de los medios 
 								locales encapsulándolo con un encabezado y un tráiler para crear una trama.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Funciones</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Funciones</b></h4></font>
 							<br>
 							    La capa de enlace de datos realiza dos servicios básicos:
 							<br>
@@ -167,7 +167,7 @@
 								de red.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Subcapas de Enlace de Datos</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Subcapas de Enlace de Datos</b></h4></font>
 							<br>
 							
 								Para sostener una gran variedad de funciones de red, la capa de enlace de datos a menudo se divide en dos 
@@ -185,14 +185,14 @@
 							Las dos subcapas comunes de LAN son: 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Control de Enlace Lógico</b></h3></font> 
+							<h4 align="justify"> <font color="#000080" ><b>Control de Enlace Lógico</b></h4></font> 
 							<br>
 							El control de enlace lógico (LLC) coloca información en la trama que identifica qué protocolo de capa de red está siendo
 							utilizado por la trama. Esta información permite que varios protocolos de la Capa 3, tales como IP e IPX, utilicen la 
 							misma interfaz de red y los mismos medios. 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Control de Acceso al Medio</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Control de Acceso al Medio</b></h4></font>
 							<br>
 							El control de acceso al medio (MAC) proporciona a la capa de enlace de datos el direccionamiento y la delimitación de 
 							datos de acuerdo con los requisitos de señalización física del medio y al tipo de protocolo de capa de enlace de datos 
@@ -217,7 +217,7 @@
 							en este caso IPv4 o IPv6, que no necesita saber qué medio de comunicación utilizará. 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Estándares</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Estándares</b></h4></font>
 							<br>
 							A diferencia de los protocolos de las capas superiores del conjunto TCP/IP, los protocolos de capa de enlace de datos 
 							generalmente no están definidos por solicitudes de comentarios (RFC). A pesar de que el Grupo de trabajo de ingeniería 

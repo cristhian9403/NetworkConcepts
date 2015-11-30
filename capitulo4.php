@@ -110,13 +110,13 @@
 							<div class="panel-body" style="text-align: justify;" >
 							 <h3 align="center"> <font color="#000080" ><b> 4. Capa de Transporte del Modelo OSI  </b></h3></font>
 							 <br>
-							  <h3 align="justify"> <font color="#000080" ><b>Definición</b></h3></font>
+							  <h4 align="justify"> <font color="#000080" ><b>Definición</b></h4></font>
 							  <br>
 								La capa de Transporte es aquella que permite la segmentación de datos y brinda el control necesario para reensamblar las partes dentro 
 								de los distintos streams de comunicación. 
 							<br>
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Funciones</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Funciones</b></h4></font>
 							<br>	
 							    Las responsabilidades principales que debe cumplir son:
 							<br>
@@ -128,14 +128,14 @@
 								<li> Identificación de las diferentes aplicaciones.</li>
 							</ul>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Seguimiento de Conversaciones Individuales</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Seguimiento de Conversaciones Individuales</b></h4></font>
 							<br>
 							Cualquier host puede tener múltiples aplicaciones que se están comunicando a través de la red. Cada una de 
 							estas aplicaciones se comunicará con una o más aplicaciones en hosts remotos. Es responsabilidad de la capa
 							de Transporte mantener los diversos streams de comunicación entre estas aplicaciones.   
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Segmentación de Datos</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Segmentación de Datos</b></h4></font>
 							<br>
 							Debido a que cada aplicación genera un stream de datos para enviar a una aplicación remota, estos datos deben 
 							prepararse para ser enviados por los medios en partes manejables. Los protocolos de la capa de Transporte 
@@ -144,7 +144,7 @@
 							en la capa de Transporte para indicar la comunicación a la cual está asociada. 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Reensamble de segmentos</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Reensamble de segmentos</b></h4></font>
 							<br>
 							En el host de recepción, cada sección de datos puede ser direccionada a la aplicación adecuada. Además, estas 
 							secciones de datos individuales también deben reconstruirse para generar un stream completo de datos que sea 
@@ -152,7 +152,7 @@
 							de encabezado de dicha capa para reensamblar las secciones de datos en streams y enviarlas a la capa de Aplicación.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Identificación de las aplicaciones</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Identificación de las aplicaciones</b></h4></font>
 							<br>
 							Para poder transferir los streams de datos a las aplicaciones adecuadas, la capa de Transporte debe identificar la 
 							aplicación de destino. Para lograr esto, la capa de Transporte asigna un identificador a la aplicación. Los protocolos 
@@ -166,12 +166,7 @@
 							como secciones manejables que puedan ser eventualmente multiplexadas a través del medio.
 							<br>
 							<br>
-							Algunos protocolos proporcionan sólo las funciones básicas para la entrega eficiente de las secciones de datos entre 
-							las aplicaciones adecuadas. Estos tipos de protocolos son útiles para aquellas aplicaciones cuyos datos son sensibles 
-							a las demoras.
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Propósito de la Capa de Transporte</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Propósito de la Capa de Transporte</b></h4></font>
 							<br>
 							<b>Proposito:</b> separación de comunicaciones múltiples.
 							<br>
@@ -195,14 +190,14 @@
 							rotocolos de la capa de Transporte lleven a cabo las diversas funciones.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Protocolos </b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Protocolos </b></h4></font>
 							<br>
 							Los dos protocolos más comunes de la capa de Transporte del conjunto de protocolos TCP/IP son el Protocolo de control de 
 							transmisión (TCP) y el Protocolos de datagramas de usuario (UDP). Ambos protocolos gestionan la comunicación de múltiples 
 							aplicaciones. Las diferencias entre ellos son las funciones específicas que cada uno implementa. 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Protocolo de datagramas de usuario (UDP) </b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Protocolo de datagramas de usuario (UDP) </b></h4></font>
 							<br>
 							UDP es un protocolo simple, sin conexión, descrito en la RFC 768. Cuenta con la ventaja de proveer la entrega de datos sin 
 							utilizar muchos recursos. Las porciones de comunicación en UDP se llaman datagramas. Este protocolo de la capa de Transporte 
@@ -218,7 +213,7 @@
 								<li>Voz sobre IP (VoIP).</li>
 							</ul>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Protocolo de control de transmisión (TCP) </b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Protocolo de control de transmisión (TCP) </b></h4></font>
 							<br>
 							TCP es un protocolo orientado a la conexión, descrito en la RFC 793. TCP incurre en el uso adicional de recursos para agregar 
 							funciones. Las funciones adicionales especificadas por TCP están en el mismo orden de entrega, son de entrega confiable y de 

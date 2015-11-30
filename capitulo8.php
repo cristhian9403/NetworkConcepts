@@ -102,7 +102,7 @@
 							<div class="panel-body" style="text-align: justify;" >
 							 <h3 align="center"> <font color="#000080" ><b>8. Capa Física del Modelo OSI</b></h3></font>
 							 <br>
-								<h3 align="justify"> <font color="#000080" ><b>	Definición</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>	Definición</b></h4></font>
 							<br>
 							La capa física de OSI es aquella que proporciona los medios de transporte para los bits que conforman la trama de la capa de 
 							Enlace de datos a través de los medios de red. Esta capa acepta una trama completa desde la capa de Enlace de 
@@ -122,7 +122,7 @@
 							la capa de red los ha colocado en paquetes y luego la capa de enlace de datos los ha encapsulado como tramas.
 							<br>
 								<br>
-								<h3 align="justify"> <font color="#000080" ><b>	Objetivo</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>	Objetivo</b></h4></font>
 							<br>
 								El objetivo de la capa física es crear la señal óptica, eléctrica o de microondas que representa a los bits en
 								cada trama. Luego, estas señales se envían por los medios una a la vez. Otra función de la capa física es la de 
@@ -130,7 +130,7 @@
 								los bits hacia la capa de Enlace de datos como una trama completa. 
 							<br>
 							<br>	
-							<h3 align="justify"> <font color="#000080" ><b>	Funcionamiento</b></h3></font>						
+							<h4 align="justify"> <font color="#000080" ><b>	Funcionamiento</b></h4></font>						
 							<br>
                                 Los medios no transportan la trama como una única entidad. Los medios transportan señales, una por vez, para representar 
 								los bits que conforman la trama. Existen tres tipos básicos de medios de red en los cuales se representan los datos: 
@@ -147,7 +147,7 @@
 								medios inalámbricos, las señales son patrones de transmisiones de radio.
 								<br>
 								<br>
-								<h3 align="justify"> <font color="#000080" ><b>Identificación de una Trama</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Identificación de una Trama</b></h4></font>
 								<br>
 								Cuando la capa física codifica los bits en señales para un medio específico, también debe distinguir dónde termina una 
 								trama y dónde se inicia la próxima. De lo contrario, los dispositivos de los medios no reconocerían cuándo se ha 
@@ -162,7 +162,7 @@
 								sólo se utilizan para indicar el comienzo y el final de una trama.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Principios Fundamentales de la Capa física</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Principios Fundamentales de la Capa física</b></h4></font>
 							<br>
 							Las tres funciones esenciales de la capa física son:
 							<br>
@@ -177,7 +177,7 @@
 							transportan las señales para representar los bits.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Codificación </b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Codificación </b></h4></font>
 							<br>
 							La codificación es un método utilizado para convertir un stream de bits de datos en un código predefinido. 
 							Los códigos son grupos de bits utilizados para ofrecer un patrón predecible que pueda reconocer tanto el 
@@ -185,13 +185,7 @@
 							los bits de control y ofrece una mejor detección de errores en los medios. 
 							<br>
 							<br>
-							Además de crear códigos para los datos, los métodos de codificación en la capa física también pueden 
-							proporcionar códigos para control, como la identificación del comienzo y el final de una trama. El host
-							que realiza la transmisión transmitirá el patrón específico de bits o un código para identificar el
-							comienzo y el final de la trama. 
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Señalización</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Señalización</b></h4></font>
 							<br>
 							La capa física debe generar las señales inalámbricas, ópticas o eléctricas que representan el "1" y el "0"
 							en los medios. El método de representación de bits se denomina método de señalización. Los estándares de 
@@ -199,7 +193,7 @@
 							un cambio en el nivel de una señal eléctrica, un impulso óptico o un método de señalización más complejo.
 							<br>
 								<br>
-								<h3 align="justify"> <font color="#000080" ><b>Estándares</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Estándares</b></h4></font>
 								<br>
 								
 								La capa física consiste en un hardware creado por ingenieros en forma de conectores, medios y circuitos electrónicos.
@@ -225,7 +219,7 @@
 							 <li>Autoridades de las telecomunicaciones nacionales, como la Comisión Federal de Comunicaciones (FCC) en EE.UU.</li>
 							</ul>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Hardware y tecnologías de la Capa física</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Hardware y tecnologías de la Capa física</b></h4></font>
 							<br>
 							Las tecnologías definidas por estas organizaciones incluyen cuatro áreas de estándares de la capa física:
 							<br>
@@ -237,7 +231,7 @@
 							<li>Definición de las señales de la información de control</li>
 							</ul>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Tipos de Medios Físicos</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Tipos de Medios Físicos</b></h4></font>
 							<br>
 							La capa física se ocupa de la señalización y los medios de red. Esta capa produce la representación y agrupación de bits 
 							en voltajes, radiofrecuencia e impulsos de luz. Muchas organizaciones que establecen estándares han contribuido con la 
@@ -246,16 +240,11 @@
 							implementaciones de la capa de Enlace de datos.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Medios de Cobre</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Medios de Cobre</b></h4></font>
 							<br>
 							El medio más utilizado para las comunicaciones de datos es el cableado que utiliza alambres de cobre para señalizar bits de
 							control y datos entre los dispositivos de red. El cableado utilizado para las comunicaciones de datos generalmente consiste 
 							en una secuencia de alambres individuales de cobre que forman circuitos que cumplen objetivos específicos de señalización. 
-							<br>
-							<br>
-							Otros tipos de cableado de cobre, conocidos como cables coaxiales, tienen un conductor simple que circula por el centro del 
-							cable envuelto por el otro blindaje, pero está aislado de éste. El tipo de medio de cobre elegido se especifica mediante el 
-							estándar de la capa física necesario para enlazar las capas de Enlace de datos de dos o más dispositivos de red.
 							<br>
 							<br>
 							Estos cables pueden utilizarse para conectar los nodos de una LAN a los dispositivos intermedios, como routers o switches. 
@@ -278,7 +267,7 @@
 							<li>Cable de par trenzado blindado (STP)</li>
 							</ul>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Medios de Fibra</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Medios de Fibra</b></h4></font>
 							<br>
 							El cableado de fibra óptica utiliza fibras de plástico o de vidrio para guiar los impulsos de luz desde el origen hacia el 
 							destino. Los bits se codifican en la fibra como impulsos de luz. El cableado de fibra óptica puede generar velocidades muy 
@@ -298,7 +287,7 @@
 							de un LED ingresa a la fibra multimodo en diferentes ángulos. 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Medios  Inalámbricos</b></h3></font> 
+							<h4 align="justify"> <font color="#000080" ><b>Medios  Inalámbricos</b></h4></font> 
 							<br>
 							Los medios inalámbricos transportan señales electromagnéticas mediante frecuencias de microondas y radiofrecuencias que 
 							representan los dígitos binarios de las comunicaciones de datos. Como medio de red, el sistema inalámbrico no se limita 

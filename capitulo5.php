@@ -110,13 +110,13 @@
 							<div class="panel-body" style="text-align: justify;" >
 							 <h3 align="center"> <font color="#000080" ><b> 5. Capa de Red del Modelo OSI </b></h3></font>
 							 <br>
-							 <h3 align="justify"> <font color="#000080" ><b>Definición</b></h3></font>
+							 <h4 align="justify"> <font color="#000080" ><b>Definición</b></h4></font>
 							<br>
 							 La Capa de red o Capa 3 de OSI es aquella que provee servicios para intercambiar secciones de datos individuales a través de 
 							 la red  entre dispositivos finales identificados.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Funcionalidad</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Funcionalidad</b></h4></font>
 							 <br>
 							 Para realizar el transporte de datos de extremo a extremo la Capa 3 utiliza cuatro procesos básicos:
 							 <br>
@@ -129,14 +129,14 @@
 							</ul>
 							<br>
 							
-							<h3 align="justify"> <font color="#000080" ><b>Direccionamiento</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Direccionamiento</b></h4></font>
 							<br>
 							Primero, la Capa de red debe proveer un mecanismo para direccionar estos dispositivos finales. Si las secciones individuales
 							de datos deben dirigirse a un dispositivo final, este dispositivo debe tener una dirección única. En una red IPv4, cuando se 
 							agrega esta dirección a un dispositivo, al dispositivo se lo denomina host. 
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Encapsulación</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Encapsulación</b></h4></font>
 							<br>
 							Segundo, la capa de Red debe proveer encapsulación. Los dispositivos no deben ser identificados sólo con una dirección; las 
 							secciones individuales, las PDU de la capa de Red, deben, además, contener estas direcciones. Durante el proceso de 
@@ -151,7 +151,7 @@
 							de prepararse para el transporte a través de los medios.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Enrutamiento</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Enrutamiento</b></h4></font>
 							<br>
 							Luego, la capa de red debe proveer los servicios para dirigir estos paquetes a su host destino. Los host de origen y destino no 
 							siempre están conectados a la misma red. En realidad, el paquete podría recorrer muchas redes diferentes. A lo largo de la ruta, 
@@ -165,7 +165,7 @@
 							(la PDU de la Capa de transporte) permanece intacto hasta que llega al host destino.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Desencapsulamiento</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Desencapsulamiento</b></h4></font>
 							<br>
 							Finalmente, el paquete llega al host destino y es procesado en la Capa 3. El host examina la dirección de destino para verificar
 							que el paquete fue direccionado a ese dispositivo. Si la dirección es correcta, el paquete es desencapsulado por la capa de Red y 
@@ -178,7 +178,7 @@
 							llevar paquetes para múltiples tipos de comunicaciones entre hosts múltiples.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Protocolos de capa de Red</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Protocolos de capa de Red</b></h4></font>
 							<br>
 							Los protocolos implementados en la capa de Red que llevan datos del usuario son:
 							<br>
@@ -195,7 +195,7 @@
 							tema de este curso. Los demás protocolos no serán abordados en profundidad.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>IPv4</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>IPv4</b></h4></font>
 							<br>
 							Como se muestra en la figura llamada Protocolo IPv4, los servicios de capa de Red implementados por el conjunto de protocolos TCP/IP son el Protocolo 
 							de Internet (IP). La versión 4 de IP (IPv4) es la versión de IP más ampliamente utilizada. Es el único protocolo de Capa 3 que 
@@ -207,7 +207,7 @@
 							rastrear ni administrar el flujo de paquetes. Estas funciones son realizadas por otros protocolos en otras capas.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Características básicas de IPv4:</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Características básicas de IPv4:</b></h4></font>
 							<br>
 							<ul type="disk">
 							<li><b>Sin conexión:</b> No establece conexión antes de enviar los paquetes de datos.</li>

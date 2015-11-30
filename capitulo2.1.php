@@ -87,11 +87,21 @@
 		</div><!-- /input-group -->
 		</div>
 		
+		<div class="row">
+                 		<section class="posts col-md-12" STYLE=" top:20px; left:1px;">
+                 				<ol class="breadcrumb">
+                 					<li>
+             					       <a href="principal.php"><small>Inicio</small></a> 
+             				       </li>
+             				       <li class="active"><small>Capitulo 2.1</small></li>	
+                 		</section>
+             </div>
+		
 		<br>
 		<br>
 		
 
-		<div STYLE="position:relative; top:1.8px; left:50px; width:1100px;" >
+		<div STYLE="position:relative; top:-40px; left:50px; width:1100px;" >
 						
 					<div class="col-sm-6" STYLE="left:-65px; width:550px;" >
 									
@@ -150,7 +160,7 @@
 			 	
 		</div>		
 
-	<div class="col-md-12" STYLE=" left:-17px; width:1132px;  top:4px;  margin-bottom: -100px;" >	
+	<div class="col-md-12" STYLE=" left:-17px; width:1132px;  top:-40px;  margin-bottom: -100px;" >	
 	
 		<nav class="navbar navbar-default "  >
 		

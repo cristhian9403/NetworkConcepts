@@ -110,7 +110,7 @@
 							<div class="panel-body" style="text-align: justify;" >
 							 <h3 align="center"> <font color="#000080" ><b> 3. Protocolos y Funcionalidad de la Capa de Aplicación </b></h3></font>
 							 <br>
-							 <h3 align="justify"> <font color="#000080" ><b>Modelo OSI y Modelo TCP/IP</b></h3></font>
+							 <h4 align="justify"> <font color="#000080" ><b>Modelo OSI y Modelo TCP/IP</b></h4></font>
 							<br>
 							 El modelo de referencia de interconexión de sistemas abiertos es una representación abstracta en capas, creada como guía para 
 							 el diseño del protocolo de red. El modelo OSI divide el proceso de networking en diferentes capas lógicas, cada una de las 
@@ -127,12 +127,7 @@
 							Aplicación, Presentación y Sesión.
 							<br>
 							<br>
-							La mayoría de los protocolos de capa de aplicación de TCP/IP se desarrollaron antes de la aparición de computadoras personales, 
-							interfaces del usuario gráficas y objetos multimedia. Como resultado, estos protocolos implementan muy poco de la funcionalidad 
-							que se especifica en las capas de Sesión y Presentación del modelo OSI.
-							<br>
-							<br>
-							 <h3 align="justify"> <font color="#000080" ><b>Definición de la Capa de Aplicación</b></h3></font>
+							 <h4 align="justify"> <font color="#000080" ><b>Definición de la Capa de Aplicación</b></h4></font>
 							<br>
 							 La capa de Aplicación, Capa siete, es la capa superior de los modelos OSI y TCP/IP. Es la capa que proporciona la interfaz 
 							 entre las aplicaciones que utilizamos para comunicarnos y la red subyacente en la cual se transmiten los mensajes. 
@@ -146,7 +141,7 @@
 							cuales se explican a continuacion:
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Capa de Presentación</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Capa de Presentación</b></h4></font>
 							<br>
 							La capa de Presentación tiene tres funciones primarias:
 							<br>
@@ -160,16 +155,10 @@
 							<br>
 							Las implementaciones de la capa de presentación generalmente no se vinculan con una stack de protocolos determinada. Los 
 							estándares para vídeos y gráficos son algunos ejemplos. Dentro de los estándares más conocidos para vídeo encontramos 
-							QuickTime y el Grupo de expertos en películas (MPEG). QuickTime es una especificación de Apple Computer para audio y vídeo, 
-							y MPEG es un estándar para la codificación y compresión de vídeos. 
+							QuickTime y el Grupo de expertos en películas (MPEG). 
 							<br>
 							<br>
-							Dentro de los formatos de imagen gráfica más conocidos encontramos Formato de intercambio gráfico (GIF), Grupo de expertos 
-							en fotografía (JPEG) y Formato de archivo de imagen etiquetada (TIFF). GIF y JPEG son estándares de compresión y codificación 
-							para imágenes gráficas, y TIFF es una formato de codificación estándar para imágenes gráficas. 
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Capa de Sesión</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Capa de Sesión</b></h4></font>
 							<br>
 							Como lo indica el nombre de la capa de Sesión, las funciones en esta capa crean y mantienen diálogos entre las aplicaciones de 
 							origen y destino. La capa de sesión maneja el intercambio de información para iniciar los diálogos y mantenerlos activos, y 
@@ -180,7 +169,7 @@
 							las capas 5, 6 y 7 del modelo OSI.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Protocolos de la Capa de Aplicación</b></h3></font> 
+							<h4 align="justify"> <font color="#000080" ><b>Protocolos de la Capa de Aplicación</b></h4></font> 
 							<br>
 							Los protocolos de capa de aplicación de TCP/IP más conocidos son aquellos que proporcionan intercambio de la información del 
 							usuario. Estos protocolos especifican la información de control y formato necesaria para muchas de las funciones de comunicación 
@@ -198,9 +187,7 @@
 						<li>El Protocolo de transferencia de archivos (FTP, File Transfer Protocol) se utiliza para la tansferencia interactiva de 
 							archivos entre sistemas.</li>
 						</ul>
-						<br>
-							Los protocolos de la suite TCP/IP generalmente son definidos por Solicitudes de comentarios (RFCS). El Grupo de trabajo 
-							de ingeniería de Internet mantiene las RFCS como los estándares para el conjunto TCP/IP.
+						
 
 							
 							
@@ -246,7 +233,7 @@
 		
 		
   <ul class="pager" >
-    <li class="previous"><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" href="capitulo2.php"><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
+    <li class="previous"><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" href="capitulo2.3.3.php"><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
     <li class="next"><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" href="capitulo4.php"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()"><a target="_blank" href="diccionario.pdf"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()"><a target="_blank" href="https://www.dropbox.com/s/9xwutltvzsifyb6/LaboratorioC3-Uso%20de%20los%20Protocolos%20TCP-IP.pka?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" > Laboratorio</font></span></a></li>

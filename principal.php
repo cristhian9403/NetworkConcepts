@@ -35,7 +35,7 @@
 </head>
 
 	<body background="imagenes/mundo.jpg">
-	<div STYLE="position:absolute; top:30px; left:130px; width:1100px;">
+	<div STYLE="position:absolute; top:20px; left:130px; width:1100px;">
 	
 		<nav  class = "navbar navbar-default navbar-static-top" role="navigation" > 
 						<div  class= "container.fixed"> 
@@ -56,9 +56,10 @@
 										<small>Capítulo2</small><span class="caret"></span>
 										</a>
 										<ul class="dropdown-menu">
+										<li><a href="capitulo2.php">2 Comunicación a traves de la Red</a></li>
 										<li><a href="capitulo2.1.php">2.1 Elementos de la Comunicación</a></li>
 										<li><a href="capitulo2.2.php">2.2 Comunicación de Mensajes</a></li>
-										<li><a href="EstadodeVuelos.php">2.3 Componentes de la Red</a></li>
+										<li><a href="capitulo2.3.php">2.3 Componentes de la Red</a></li>
 										<li><a href="capitulo2.3.1.php">2.3.1 Dispositivos Finales</a></li>
 										<li><a href="capitulo2.3.2.php">2.3.2 Dispositivos Intermediarios</a></li>
 										<li><a href="capitulo2.3.3.php">2.3.3 Medios de Red</a></li>

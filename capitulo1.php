@@ -134,9 +134,9 @@
 								<li>Descargar nuevas recetas y técnicas de cocina para crear cenas fabulosas.</li>
 								<li>Enviar y compartir sus fotografías, vídeos caseros y experiencias con amigos o con el mundo.</li>
                             </ul>
-								
-								<h3 align="justify"> <font color="#000080" ><b>Redes que respaldan la forma en que aprendemos</b></h3></font>
-								
+								<br>
+								<h4 align="justify"> <font color="#000080" ><b>Redes que Respaldan la Forma en que Aprendemos</b></h4></font>
+								<br>
 								Comunicación, colaboración y compromiso son los componentes básicos de la educación. Las instituciones se esfuerzan
 								continuamente para mejorar estos procesos y maximizar la diseminación del conocimiento. Redes confiables y sólidas 
 								respaldan y enriquecen las experiencias de aprendizaje de los estudiantes. Estas redes envían material de aprendizaje 
@@ -144,8 +144,9 @@
 								comentarios. Los cursos enviados utilizando recursos de Internet o de red generalmente se denominan experiencias de 
 								aprendizaje en línea o e-learning. 
 								<br>
-								<h3 align="justify"> <font color="#000080" ><b>Redes que respaldan la forma en que trabajamos</b></h3></font>
-								
+								<br>
+								<h4 align="justify"> <font color="#000080" ><b>Redes que Respaldan la Forma en que Trabajamos</b></h4></font>
+								<br>
 								En principio, las empresas utilizaban redes de datos para registrar y administrar internamente la información
 								financiera, la información del cliente y los sistemas de nómina de empleados. Las redes comerciales evolucionaron 
 								para permitir la transmisión de diferentes tipos de servicios de información, como e-mail, video, mensajería y 
@@ -154,8 +155,9 @@
 								para brindarles a los proveedores, fabricantes y clientes acceso limitado a datos corporativos para verificar estados,
 								inventario y listas de partes.
 								<br>
-								<h3 align="justify"> <font color="#000080" ><b>Redes que respaldan la forma en que Jugamos</b></h3></font>
-								
+								<br>
+								<h4 align="justify"> <font color="#000080" ><b>Redes que Respaldan la Forma en que Jugamos</b></h4></font>
+								<br>
 								Las redes permiten la creación de nuevas formas de entretenimiento, como los juegos en línea. Los jugadores participan 
 								en cualquier clase de competencia en línea que los diseñadores de juegos puedan imaginar. Competimos con amigos y 
 								adversarios de todo el mundo como si estuviéramos en la misma habitación. En la red humana podemos disfrutar cualquier

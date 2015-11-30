@@ -111,7 +111,7 @@
 								manera eficaz y eficiente.
 							<br>
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Estructura de una Dirección IPV4</b></h3></font>    
+								<h4 align="justify"> <font color="#000080" ><b>Estructura de una Dirección IPV4</b></h4></font>    
 							<br>
 								Cada dispositivo de una red debe ser definido en forma exclusiva. En la capa de red es necesario identificar los 
 								paquetes de la transmisión con las direcciones de origen y de destino de los dos sistemas finales. Con IPv4, esto 
@@ -125,7 +125,7 @@
 								decimal punteada. 
 							<br>
 							<br>	
-							<h3 align="justify"> <font color="#000080" ><b>	Punto Decimal</b></h3></font> 
+							<h4 align="justify"> <font color="#000080" ><b>	Punto Decimal</b></h4></font> 
 								<br>
 								Los patrones binarios que representan direcciones IPv4 son expresados con puntos decimales separando cada byte del 
 								patrón binario, llamado octeto, con un punto. Se le llama octeto debido a que cada número decimal representa un byte 
@@ -148,7 +148,7 @@
 								les resulte más fácil utilizar y recordar direcciones. 
 							<br>
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Porciones de Red y de Host</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Porciones de Red y de Host</b></h4></font>
 							<br>
 							En cada dirección IPv4, alguna porción de los bits de orden superior representa la dirección de red. En la Capa 3, se define
 							una red como un grupo de hosts con patrones de bits idénticos en la porción de dirección de red de sus direcciones. 
@@ -159,7 +159,7 @@
 							de la red.
 							<br>	
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Tipos de Direcciones en una Red IPV4</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Tipos de Direcciones en una Red IPV4</b></h4></font>
 							<br>	
 								Dentro del rango de direcciones de cada red IPv4, existen tres tipos de direcciones:
 							<br>	
@@ -173,9 +173,8 @@
 								<b>Direcciones host:</b> las direcciones asignadas a los dispositivos finales de la red.
 							<br>	
 							<br>
-								<b>Dirección de red</b>
+								<h4 align="justify"> <font color="#000080" ><b>Dirección de red</b></h4></font>
 							<br>	
-							<br>
 								La dirección de red es una manera estándar de hacer referencia a una red. Por ejemplo: se podría hacer referencia a la red 
 								de la figura como "red 10.0.0.0". Ésta es una manera mucho más conveniente y descriptiva de referirse a la red que utilizando 
 								un término como "la primera red". Todos los hosts de la red 10.0.0.0 tendrán los mismos bits de red. 
@@ -185,9 +184,8 @@
 								un 0 para cada bit de host en la porción de host de la dirección
 							<br>
 							<br>
-							 <b>Dirección de broadcast</b>
+							 <h4 align="justify"> <font color="#000080" ><b>Dirección de broadcast</b></h4></font>
 							<br>	
-							<br>
 							La dirección de broadcast IPv4 es una dirección especial para cada red que permite la comunicación a todos los host en esa red. 
 							Para enviar datos a todos los hosts de una red, un host puede enviar un solo paquete dirigido a la dirección de broadcast de la 
 							red. 
@@ -199,7 +197,7 @@
 							<br>	
 							<br>
 							
-							<h3 align="justify"> <font color="#000080" ><b>Calculo de Direcciones de Host, de Red y de Broadcast</b></h3></font> 
+							<h4 align="justify"> <font color="#000080" ><b>Calculo de Direcciones de Host, de Red y de Broadcast</b></h4></font> 
 							<br>	
 							Hasta ahora, el usuario podría preguntarse: ¿Cómo se calculan estas direcciones? Este proceso de cálculo requiere que el usuario 
 							considere estas direcciones como binarias. 
@@ -242,7 +240,7 @@
 							<br>	
 							<br>								
 							
-							<h3 align="justify"> <font color="#000080" ><b>Principios de Division en Subredes</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Principios de Division en Subredes</b></h4></font>
 							<br>	
 							La división en subredes permite crear múltiples redes lógicas de un solo bloque de direcciones. Como usamos un router para 
 							conectar estas redes, cada interfaz en un router debe tener un ID único de red. Cada nodo en ese enlace está en la misma red.
@@ -262,7 +260,7 @@
 							Para una de las subredes, este bit es "0" y para la otra subred, este bit es "1". 
 							<br>	
 							<br>
-							<h3 align="justify"> <font color="#000080" ><b>Fórmula para calcular subredes</b></h3></font>
+							<h4 align="justify"> <font color="#000080" ><b>Fórmula para calcular subredes</b></h4></font>
 							<br>	
 							Use esta fórmula para calcular la cantidad de subredes: 
 							<br>	

@@ -113,16 +113,16 @@
 								para formar una red que funcione.
 							<br>
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>	Factores de Selección de Dispositivos</b></h3></font>    
+								<h4 align="justify"> <font color="#000080" ><b>	Factores de Selección de Dispositivos</b></h4></font>    
 							<br>
 								Cada LAN contará con un router que servirá de gateway para conectar la LAN a otras redes. Dentro de la LAN habrá uno 
 								o más hubs o switches para conectar los dispositivos finales a la LAN.
 							<br>
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Dispositivos de internetwork</b></h3></font>
-							
-								<h3 align="justify"> <font color="#000080" ><b>Roters</b></h3></font> 
-							
+								<h4 align="justify"> <font color="#000080" ><b>Dispositivos de internetwork</b></h4></font>
+							<br>
+								<h4 align="justify"> <font color="#000080" ><b>Roters</b></h4></font> 
+							<br>
 								Los routers son los dispositivos principales utilizados para interconectar redes. Cada puerto de un router se conecta 
 								a una red diferente y realiza el enrutamiento de los paquetes entre las redes. Los routers tienen la capacidad de 
 								dividir dominios de broadcast y dominios de colisiones.	También pueden utilizarse para interconectar redes que utilizan 
@@ -134,7 +134,7 @@
 								del router, puede haber diferentes tipos de interfaces para la conexión del cableado WAN y LAN. 
 							<br>
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Hub</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Hub</b></h4></font>
 							<br>
 								Un hub recibe una señal, la regenera y la envía a todos los puertos. El uso de hubs crea un bus lógico. Esto significa 
 								que la LAN utiliza medios de acceso múltiple. Los puertos utilizan un método de ancho de banda compartido y a menudo 
@@ -147,7 +147,7 @@
 								sean limitados.
 							<br>	
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Switch</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Switch</b></h4></font>
 							<br>	
 								Un switch recibe una trama y regenera cada bit de la trama en el puerto de destino adecuado. Este dispositivo se utiliza 
 								para segmentar una red en múltiples dominios de colisiones. A diferencia del hub, un switch reduce las colisiones en una 
@@ -161,17 +161,12 @@
 								resulta económico al considerar su confiabilidad y rendimiento mejorados. 
 							<br>
 							<br>
-								Existe una variedad de switches disponibles con distintas características que permiten la interconexión de múltiples 
-								computadoras en el entorno empresarial típico de una LAN. Para cumplir con los requisitos de usuario, se debe planificar y 
-								diseñar una LAN. La planificación asegura que se consideren debidamente todos los requisitos, factores de costo y opciones 
-								de implementación.
-							<br>
-							<br>	
+								
 								Se deben considerar varios factores al seleccionar un dispositivo para una LAN particular. Estos factores incluyen,
 								entre otros:
 							<br>
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Costo</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Costo</b></h4></font>
 							<br>	
 								El costo de un switch se determina según sus capacidades y características. La capacidad del switch incluye el número 
 								y los tipos de puertos disponibles además de la velocidad de conmutación. Otros factores que afectan el costo son las 
@@ -179,7 +174,7 @@
 								conmutación avanzadas.
 							<br>
 							<br>
-								<h3 align="justify"> <font color="#000080" ><b>Velocidad y tipos de puertos/interfaces</b></h3></font>
+								<h4 align="justify"> <font color="#000080" ><b>Velocidad y tipos de puertos/interfaces</b></h4></font>
 							<br>	
 								La necesidad de velocidad está siempre presente en un entorno LAN. Se encuentran disponibles computadoras más nuevas 
 								con NIC incorporadas de 10/100/1000 Mbps. La selección de dispositivos de Capa 2 que puedan ajustarse a mayores 
@@ -201,7 +196,7 @@
 								Tenga en cuenta además cuándo necesitará más puertos.
 							<br>
 							<br>								
-								<h3 align="justify"> <font color="#000080"><b>Posibilidad de expansión</b></h3></font>
+								<h4 align="justify"> <font color="#000080"><b>Posibilidad de expansión</b></h4></font>
 							<br>	
 								Los dispositivos de red, como los routers y switches, forman parte tanto de las configuraciones físicas modulares como 
 								de las fijas. Las configuraciones fijas tienen un tipo y una cantidad específica de puertos o interfaces. Los 
@@ -210,7 +205,7 @@
 								fijos además de ranuras de expansión.
 							<br>
 							<br>
-							<h3 align="justify"> <font color="#000080"><b>Interconexiones entre Dispositivos </b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>Interconexiones entre Dispositivos </b></h4></font>
 							<br>
 								Al planificar la instalación del cableado LAN, existen cuatro áreas físicas que se deben considerar:
 							<br>
@@ -222,7 +217,7 @@
 								<li>Cableado de distribución, también denominado cableado horizontal.</li>
 							</ul>
 							<br>	
-							<h3 align="justify"> <font color="#000080"><b>	Longitud total del cable</b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>	Longitud total del cable</b></h4></font>
 							<br>
 							
 								Para las instalaciones UTP, el estándar ANSI/TIA/EIA-568-B especifica que la longitud combinada total del cable que abarca
@@ -231,7 +226,7 @@
 								de cable desde el punto de terminación del cableado en la pared hasta el teléfono o la computadora. 
 							<br>
 							<br>	
-							<h3 align="justify"> <font color="#000080"><b>Áreas de trabajo</b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>Áreas de trabajo</b></h4></font>
 							<br>
 								Las áreas de trabajo son las ubicaciones destinadas para los dispositivos finales utilizados por los usuarios individuales. 
 								Cada área de trabajo tiene un mínimo de dos conectores que pueden utilizarse para conectar un dispositivo individual a la red. 
@@ -245,7 +240,7 @@
 								generalmente se utiliza un cable de conexión cruzada para conectar el dispositivo al jack de pared. 
 							<br>
 							<br>	
-							<h3 align="justify"> <font color="#000080"><b>Cuarto de telecomunicaciones</b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>Cuarto de telecomunicaciones</b></h4></font>
 							<br>
 								El cuarto de telecomunicaciones es el lugar donde se realizan las conexiones a los dispositivos intermediarios. Estos
 								cuartos contienen dispositivos intermediarios (hubs, switches, routers y unidades de servicio de datos [DSU]) que 
@@ -256,15 +251,8 @@
 								cables horizontales, y los dispositivos intermediarios. Los patch cables también interconectan estos dispositivos 
 								intermediarios.
 							<br>
-							<br>
-								Los estándares de la Asociación de Industrias Electrónicas y la Asociación de las Industrias de las Telecomunicaciones 
-								(EIA/TIA) establecen dos tipos diferentes de patch cables de UTP. Uno de los tipos es el patch cord, con una longitud 
-								de hasta 5 metros y se utiliza para interconectar el equipo y los patch panels en el cuarto de telecomunicaciones.
-								Otro tipo de patch cable puede ser de hasta 5 metros de longitud y se utiliza para conectar dispositivos a un punto de 
-								terminación en la pared.
-							<br>
 							<br>	
-							<h3 align="justify"> <font color="#000080"><b>	Cableado horizontal</b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>	Cableado horizontal</b></h4></font>
 							<br>
 								El cableado horizontal se refiere a los cables que conectan los cuartos de telecomunicaciones con las áreas de trabajo.
 								La longitud máxima de cable desde el punto de terminación en el cuarto de telecomunicaciones hasta la terminación en la
@@ -274,21 +262,14 @@
 								dispositivos se realizan con patch cables.
 							<br>
 							<br>	
-							<h3 align="justify"> <font color="#000080"><b>	Cableado backbone</b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>	Cableado backbone</b></h4></font>
 							<br>
 								El cableado backbone se refiere al cableado utilizado para conectar los cuartos de telecomunicaciones a las salas de 
 								equipamiento donde suelen ubicarse los servidores. El cableado backbone también interconecta múltiples cuartos de 
 								telecomunicaciones en toda la instalación. A menudo, estos cables se enrutan fuera del edificio a la conexión WAN o ISP. 
 							<br>
 							<br>
-								Los backbones, o cableado vertical, se utilizan para el tráfico agregado, como el tráfico de entrada o de salida de 
-								Internet, y para el acceso a los recursos corporativos en una ubicación remota. Gran parte del tráfico desde varias 
-								áreas de trabajo utilizará el cableado backbone para acceder a los recursos externos del área o la instalación. 
-								Por lo tanto, los backbones generalmente requieren de medios de ancho de banda superiores como el cableado de fibra
-								óptica. 
-							<br>
-							<br>
-							<h3 align="justify"> <font color="#000080"><b>	Tipos de medios</b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>	Tipos de medios</b></h4></font>
 							<br>
 								Se deben considerar los diferentes tipos de medios al elegir los cables necesarios para realizar una conexión WAN o 
 								LAN exitosa. Como ya mencionamos, existen diferentes implementaciones de la capa Física que admiten múltiples tipos 
@@ -313,9 +294,9 @@
 							<li>Susceptibilidad a EMI/RFI: ¿Interferirá con la señal el entorno en el que estamos instalando el cable?</li>
 							</ul>
 							<br>	
-							<h3 align="justify"> <font color="#000080"><b>	Realizacion de Conexiones LAN</b></h3></font>
-								
-							<h3 align="justify"> <font color="#000080"><b>	Cables UTP de conexión directa</b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>	Realizacion de Conexiones LAN</b></h4></font>
+							<br>
+							<h4 align="justify"> <font color="#000080"><b>	Cables UTP de conexión directa</b></h4></font>
 							<br>
 								Un cable de conexión directa tiene conectores en cada extremo y su terminación es idéntica conforme a los estándares 
 								T568A o T568B.
@@ -335,7 +316,7 @@
 							<li>Equipo a hub </li>
 							</ul>
 							<br>
-							<h3 align="justify"> <font color="#000080"><b>	Cables UTP de conexión cruzada</b></h3></font>
+							<h4 align="justify"> <font color="#000080"><b>	Cables UTP de conexión cruzada</b></h4></font>
 							<br>
 								Para que los dos dispositivos se comuniquen a través de un cable directamente conectado entre los dos, el terminal 
 								transmisor de uno de los dispositivos necesita conectarse al terminal receptor del otro dispositivo.
@@ -356,42 +337,7 @@
 							<li>Equipo a equipo</li>  
 							<li>Equipo a puerto Ethernet del router</li> 
 							</ul>
-							<br>
-							<h3 align="justify"> <font color="#000080"><b>	Desarrollo de un Esquema de Direccionamiento</b></h3></font>
-							<br>
-							Para desarrollar un esquema de direccionamiento para una red, comience por definir la cantidad total de hosts. 
-							Considere cada dispositivo que requerirá una dirección IP, ahora y en el futuro.
-							<br>
-							<br>
-							Algunos dispositivos finales que requieren una dirección IP son:
-							<br>
-							<br>
-							<ul type="disk">
-							<li>Equipos de usuarios.</li> 
-							<li>Equipos de administradores.</li> 
-							<li>Servidores.</li> 
-							<li>Otros dispositivos finales, como impresoras, teléfonos IP y cámaras IP.</li> 
-							</ul>
-							<br>
-							Entre los dispositivos de red que requieren una dirección IP se incluyen:
-							<br>
-							<br>
-							<ul type="disk">
-							<li>Interfaces LAN del Router.</li> 
-							<li>Interfaces (serial) WAN del Router.</li> 
-							</ul>
-							<br>
-							Entre los dispositivos de red que requieren una dirección IP para la administración se incluyen:
-							<br>
-							<br>
-							<ul type="disk">
-							<li>Switches.</li> 
-							<li>Puntos de acceso inalámbrico.</li>
-							</ul>
-							<br>
-							Una vez que se ha establecido la cantidad total de hosts (actuales y a futuro), considere el rango de direcciones 
-							disponibles y dónde encajan en la dirección de red determinada.Luego, determine si todos los hosts formarán parte de la
-							misma red o si toda la red se dividirá en subredes independientes.
+							
 								
 							</div>
 						   </div>
