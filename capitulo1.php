@@ -154,7 +154,7 @@
 								para brindarles a los proveedores, fabricantes y clientes acceso limitado a datos corporativos para verificar estados,
 								inventario y listas de partes.
 								<br>
-								<h3 align="justify"> <font color="#000080" ><b>Redes que respaldan la forma en que trabajamos</b></h3></font>
+								<h3 align="justify"> <font color="#000080" ><b>Redes que respaldan la forma en que Jugamos</b></h3></font>
 								
 								Las redes permiten la creación de nuevas formas de entretenimiento, como los juegos en línea. Los jugadores participan 
 								en cualquier clase de competencia en línea que los diseñadores de juegos puedan imaginar. Competimos con amigos y 
@@ -200,7 +200,7 @@
   <ul class="pager" >
     <li class="previous"><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="#" ><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
     <li class="next"><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="capitulo2.php"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
-	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="ITEMS-DE-INFORMACION.pdf"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
+	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="diccionario.pdf"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="https://www.dropbox.com/s/98ds8r8zq29rh3z/Cisco_Packet_Tracer_6.1_for_Windows.exe?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a href="principal.php"><img src="imagenes/home.png"><span aria-hidden="true"><font color="#000080" > Inicio</font></span></a></li>
   </ul>
