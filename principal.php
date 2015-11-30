@@ -66,11 +66,12 @@
 										</li>
 										<li><a href=""><small>Capítulo 3</small></a></li>
 										<li><a href="capitulo4.php"><small>Capítulo 4</small></a></li>
-										<li><a href=""><small>Capítulo 5</small></a></li>
+										<li><a href="capitulo5.php"><small>Capítulo 5</small></a></li>
 										<li><a href="capitulo6.php"><small>Capítulo 6</small></a></li>
 										<li><a href="capitulo7.php"><small>Capítulo 7</small></a></li>
 										<li><a href="capitulo8.php"><small>Capítulo 8</small></a></li>
 										<li><a href="capitulo9.php"><small>Capítulo 9</small></a></li>
+										
 									</ul>
 		</div>
 				
