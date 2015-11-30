@@ -18,6 +18,7 @@
 	
     <script src="js/bootstrap.js"></script>
 	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/estiloZoom.css" rel="stylesheet" type="text/css">
 	
 	<title>NetworkConcepts</title>
 	
@@ -63,7 +64,7 @@
 					<div class="col-sm-6">
 									
 						<div class="col-md-offset-4">	
-							<label><img src="imagenes/logoemp.jpg" alt="Chania" class="img-rounded" style="border-style:double; border-width:5px;"></label>						
+							<label class="zoom sobre img-circle" onmouseover="primero.playclip()"><img  src="imagenes/logoemp.jpg" alt="Chania" class="img-rounded" style="border-style:double; border-width:5px;" ></label>						
 						</div>
 					</div>
 								
@@ -78,17 +79,19 @@
 					<div STYLE="position:relative; top:8px; left:55px; width:1000px;">
 											
 						<div class="col-md-6">
-								<br>	
+								<br>
+								
 								<div class="col-md-3 col-md-offset-3" STYLE=" left:35px;">
-									<a href="principal.php" target="_self"><button type="submit" name="entrar" class="btn btn-primary  btn-block" value="envia-POST">Entrar</button></a>
+									<a  href="principal.php" target="_self"><button  type="submit" name="entrar" class="btn btn-primary  btn-block " >Entrar</button></a>
 								</div>
 								<br>
+						
 						</div>	
 								
 						<div class="col-md-6">
 								<br>	
 								<div class="col-md-3 col-md-offset-1" STYLE=" left:55px;" >
-									<button type="submit" name="BuscarVuelo" class="btn btn-primary  btn-block" value="envia-POST">Salir</button>
+									<button type="submit" name="BuscarVuelo" class="btn btn-primary  btn-block" >Salir</button>
 								</div>
 								<br>
 						</div>	

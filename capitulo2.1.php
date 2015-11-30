@@ -99,7 +99,7 @@
 						<div id="Layer1" style="width:550px; height:350px; overflow:scroll;">
 							<div class="panel panel-default" >
 							<div class="panel-body" style="text-align: justify;" >
-							 <h3 align="center"> <font color="#000080" ><b>Elementos de la Comunicación</b></h3></font>
+							 <h3 align="center"> <font color="#000080" ><b>2.1 Elementos de la Comunicación</b></h3></font>
 							 <br>
 								La comunicación comienza con un mensaje o información que se debe enviar desde una persona o dispositivo a otro.
 								Las personas intercambian ideas mediante diversos métodos de comunicación. Todos estos métodos tienen tres 

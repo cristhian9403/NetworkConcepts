@@ -99,7 +99,7 @@
 						<div id="Layer1" style="width:550px; height:350px; overflow:scroll;">
 							<div class="panel panel-default" >
 							<div class="panel-body" style="text-align: justify;" >
-							 <h3 align="center"> <font color="#000080" ><b> Dispositivos Intermediarios </b></h3></font>
+							 <h3 align="center"> <font color="#000080" ><b>2.3.2 Dispositivos Intermediarios </b></h3></font>
 							 <br>
 								Además de los dispositivos finales con los cuales la gente está familiarizada, las redes dependen de dispositivos
 								intermediarios para proporcionar conectividad y para trabajar detrás de escena y garantizar que los datos fluyan 

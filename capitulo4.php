@@ -237,7 +237,7 @@
 						<div class="row ">
 						
 							<div class="videogallery" >
-								<a class="voverlay" href="index_videolb/vdbplayer.swf?volume=100&url=video/capa_de_transporte.mp4" title="Video: Dispositivos Intermediarios"><img src="index_videolb/thumbnails/capa_de_transporte.png" alt="capa_de_transporte" /><span></span></a><span class="videolb"><a href="http://videolightbox.com">html video</a> by VideoLightBox.com v3.1</span>
+								<a class="voverlay" href="index_videolb/vdbplayer.swf?volume=100&url=video/capa_de_transporte.mp4" title="Video: Capa de Transporte"><img src="index_videolb/thumbnails/capa_de_transporte.png" alt="capa_de_transporte" /><span></span></a><span class="videolb"><a href="http://videolightbox.com">html video</a> by VideoLightBox.com v3.1</span>
 							</div>
 												
 						    <div class="col-lg-12" style="top:8px; width:528px; left:-15px;" >
