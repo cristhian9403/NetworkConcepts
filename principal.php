@@ -15,9 +15,11 @@
 	
 	<link href="css/estilo.css" rel="stylesheet">
 	<link href="css/carrousell.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="mediaplayer/swfobject.js"></script>
 	
     <script src="js/bootstrap.js"></script>
 	<link href="css/bootstrap.css" rel="stylesheet">
+	
 	
 	<title>NetworkConcepts</title>
 	
@@ -77,14 +79,35 @@
 		</div>
 				
 				
-		<div STYLE="position:relative; top:10px; left:50px; width:1050px;">
+		<div STYLE="position:relative; top:10px; left:1px; width:1050px;">
 		
-		<div align="right">
+		<div align="left">
 			<a onClick="accesibiliza()" class="btn">Contraste</a>
 			<a href="javascript:decreaseFontSize();" class="btn">Disminuir el Tamano A-</a> 
 			<a href="javascript:increaseFontSize();" class="btn">Aumentar el Tamano A+</a>
 		</div>	
+		
+		
+	
 		</div>	
+		
+		<div class="col-lg-3"> 
+		<div class="input-group" STYLE="position:relative; top:-10px; left:760px;" >
+		  <span class="input-group-btn">
+		  	<form align="right">
+			<div id="player1">This text will be replaced</div> 
+<script type="text/javascript">
+	var so = new SWFObject('mediaplayer.swf','mpl','320','20','7'); 
+	so.addParam('allowfullscreen','true'); 
+	so.addVariable('file','audios/danzahungara.mp3'); 
+	so.addVariable('height','50'); 
+	so.addVariable('width','320'); 
+	so.write('player1'); 
+</script>
+			</form>
+		  </span>
+		</div><!-- /input-group -->
+		</div>
 		<br>
 		
 		
