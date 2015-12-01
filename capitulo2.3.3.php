@@ -69,11 +69,11 @@
 		</div>	
 		</div>	
 		
-<div class="col-lg-3"> 
-		<div class="input-group" STYLE="position:relative; top:10px; left:390px;" >
+<div class="col-lg-2"> 
+		<div class="input-group" STYLE="position:relative; top:10px; left:455px;" >
 		  <span class="input-group-btn">
 		  	<form action="buscador/buscar.html" align="right" class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()">
-			<button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Buscar</button>
+			<button class="btn btn-primary  btn-block" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Buscar</button>
 			</form>
 		  </span>
 		</div><!-- /input-group -->

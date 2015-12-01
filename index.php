@@ -48,9 +48,9 @@
 	</nav>
 				
 				
-		<div STYLE="position:relative; top:10px; left:50px; width:1052px;">
+		<div STYLE="position:relative; top:10px; left:1px; width:1052px;">
 		
-		<div align="right">
+		<div align="left">
 			<a onClick="accesibiliza()" class="btn">Contraste</a>
 			<a href="javascript:decreaseFontSize();" class="btn">Disminuir el Tamano A-</a> 
 			<a href="javascript:increaseFontSize();" class="btn">Aumentar el Tamano A+</a>
