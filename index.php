@@ -91,7 +91,7 @@
 						<div class="col-md-6">
 								<br>	
 								<div class="col-md-3 col-md-offset-1" STYLE=" left:55px;" >
-									<button type="submit" name="BuscarVuelo" class="btn btn-primary  btn-block" >Salir</button>
+									<a  href="http://www.istartsurf.com/" target="_self"><button type="submit" name="BuscarVuelo" class="btn btn-primary  btn-block" >Salir</button></a>
 								</div>
 								<br>
 						</div>	
