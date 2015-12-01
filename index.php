@@ -12,6 +12,7 @@
     <meta name="author" content="">
     <script src="js/jquery.js"></script>
 	<script src="js/letra.js"></script>
+	<script src="js/sonidos.js"></script>
 	
 	<link href="css/estilo.css" rel="stylesheet">
 	<link href="css/carrousell.css" rel="stylesheet" type="text/css">
@@ -82,7 +83,7 @@
 								<br>
 								
 								<div class="col-md-3 col-md-offset-3" STYLE=" left:35px;">
-									<a  href="principal.php" target="_self"><button  type="submit" name="entrar" class="btn btn-primary  btn-block " >Entrar</button></a>
+									<a   onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="principal.php" target="_self"><button  type="submit" name="entrar" class="btn btn-primary  btn-block " >Entrar</button></a>
 								</div>
 								<br>
 						
@@ -91,7 +92,7 @@
 						<div class="col-md-6">
 								<br>	
 								<div class="col-md-3 col-md-offset-1" STYLE=" left:55px;" >
-									<a  href="http://www.istartsurf.com/" target="_self"><button type="submit" name="BuscarVuelo" class="btn btn-primary  btn-block" >Salir</button></a>
+									<a   onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="http://www.istartsurf.com/" target="_self"><button type="submit" name="BuscarVuelo" class="btn btn-primary  btn-block" >Salir</button></a>
 								</div>
 								<br>
 						</div>	
