@@ -91,19 +91,34 @@
 	
 		</div>	
 		
+<<<<<<< HEAD
 		<div class="row" style=" position:relative; left:695px; top:-25px; ">
 		
 		
 	<div id="player" >Activar y Desactivar el volumen</div>
     <div  class="col-md-6" >
 	<div id="player" class="panel panel-info" style="text-align: justify; "  ><small><b>Activar y Desactivar el volumen</b></small>
+=======
+		<div class="row" style=" position:relative; left:695px; top:-10px; ">
+		 <div  class="col-md-6" >
+		
+	<div id="player">This text will be replaced</div>
+   
+>>>>>>> origin/master
       <script type="text/javascript">
-		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','420','40','7');
+		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','320','20','7');
 		so.addParam('allowfullscreen','true');
 		so.addVariable('file','mediaplayer/audios/danzahungara.mp3');
+<<<<<<< HEAD
 		so.addVariable('backcolor','0x9494aa');
 		so.addVariable('lightcolor','0x004eb8');
 		so.addVariable('largecontrols','true');
+=======
+		so.addVariable('height','20');
+		so.addVariable('width','320');
+		so.addVariable('backcolor','0xCCCCFF');
+		so.addVariable('lightcolor','0x99FFFF');
+>>>>>>> origin/master
 		so.addVariable('autostart','true');
 		so.write('player');
 	</script>
