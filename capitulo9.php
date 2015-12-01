@@ -375,7 +375,7 @@
 		
 		
   <ul class="pager" >
-    <li class="previous" ><a  class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip() href="capitulo8.php" ><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
+    <li class="previous" ><a  class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="capitulo8.php" ><span aria-hidden="false"><img src="imagenes/left1.png"></span></a></li>
    
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="diccionario.pdf"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
 	<li class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()"><a target="_blank" href="https://www.dropbox.com/s/g85hw7u78njy6ns/LaboratorioC9-Creaci%C3%B3n%20de%20una%20peque%C3%B1a%20topolog%C3%ADa.pka?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" > Laboratorio</font></span></a></li>
