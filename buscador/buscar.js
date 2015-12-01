@@ -1,6 +1,7 @@
 /* XSearch Engine version5.2		*/
 /* developed by P.Bestebroer		*/
 /* http://www.dynamic-core.net	 	*/
+'<meta charset="utf-8">'
 
 function trecords(){
 	this.index=(trecords.count++)
