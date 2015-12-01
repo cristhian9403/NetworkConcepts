@@ -94,23 +94,24 @@
 		
 
 
-			<div class="row" style=" position:relative; left:695px; top:-25px; ">
+			<div class="row" style=" position:relative; left:595px; top:-25px; ">
 				
-					<div  STYLE=" left:110px; width:320px; background-color:white">
+					<div  STYLE=" left:110px; width:519px; background-color:white">
 						 
 						
-		 <div  style="text-align: justify; " ><small><b>Activar y Desactivar el volumen</b></small></div>
+		 <div  style="text-align: center;   border-top: 2px solid #00BFFF; 
+		 border-left: 2px solid #00BFFF; border-right: 2px solid #00BFFF; " ><small><font color="#0101DF" ><b>Activar y Desactivar el volumen</b></font></small></div>
 		 
 		
-	<div id="player"  style="text-align: justify; " ><small><b>Activar y Desactivar el volumen</b></small></div>
+	<div id="player"  style="text-align: justify; border-top: 2px solid #00BFFF; " ><small><b>Activar y Desactivar el volumen</b></small></div>
    
       <script type="text/javascript">
 	  
-		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','320','20','0');
+		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','519','20','0');
 		so.addParam('allowfullscreen','true');
-		so.addVariable('file','mediaplayer/audios/danzahungara.mp3');
+		so.addVariable('file','mediaplayer/audios/pista.mp3');
 		so.addVariable('height','20');
-		so.addVariable('width','320');
+		so.addVariable('width','519');
 		so.addVariable('backcolor','0xCCCCFF');
 		so.addVariable('lightcolor','0x99FFFF');
 		so.addVariable('autostart','true');
@@ -125,7 +126,7 @@
 
 		
 		
-		<div STYLE="position:relative; top:-18px; left:55px; width:1100px;">
+		<div STYLE="position:relative; top:-40px; left:55px; width:1100px;">
 						
 					<div class="col-sm-6" STYLE="left:-69px; width:530px;" >
 									

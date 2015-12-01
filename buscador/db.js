@@ -56,7 +56,7 @@ add("<a href='../capitulo2.1.php'>Elementos de la Comunicación</a>","Mensajes","
 add("<a href='../capitulo2.1.php'>Elementos de la Comunicación</a>","Comunicación","Expone como inicia la comunicación de una persona o dispositivo a otro")
 add("<a href='../capitulo2.1.php'>Elementos de la Comunicación</a>","Origen","Expone como inicia la comunicación de una persona o dispositivo a otro")
 
-add("<a href='../capitulo2.2.php'>Comunicación de Mensajes</a>","Origen","Da a conocer como se produce el envío de mensajes a través de la red")
+add("<a href='../capitulo2.2.php'>Comunicacion de Mensajes</a>","Origen","Da a conocer como se produce el envío de mensajes a través de la red")
 add("<a href='../capitulo2.2.php'>Comunicación de Mensajes</a>","mensajes","Da a conocer como se produce el envío de mensajes a través de la red")
 add("<a href='../capitulo2.2.php'>Comunicación de Mensajes</a>","enviar","Da a conocer como se produce el envío de mensajes a través de la red")
 add("<a href='../capitulo2.2.php'>Comunicación de Mensajes</a>","datos","Da a conocer como se produce el envío de mensajes a través de la red")
