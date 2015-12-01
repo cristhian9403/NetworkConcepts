@@ -96,7 +96,9 @@
 
 			<div class="row" style=" position:relative; left:695px; top:-25px; ">
 				
-					<div  class="col-md-6" >
+					<div  STYLE=" left:110px; width:320px; background-color:white">
+						 
+						
 		 <div  style="text-align: justify; " ><small><b>Activar y Desactivar el volumen</b></small></div>
 		 
 		
@@ -104,7 +106,7 @@
    
       <script type="text/javascript">
 	  
-		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','320','20','7');
+		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','320','20','0');
 		so.addParam('allowfullscreen','true');
 		so.addVariable('file','mediaplayer/audios/danzahungara.mp3');
 		so.addVariable('height','20');
@@ -114,6 +116,7 @@
 		so.addVariable('autostart','true');
 		so.write('player');
 	</script>
+	
         
      </div>
      </div>
