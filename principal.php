@@ -91,28 +91,26 @@
 	
 		</div>	
 		
-		<div class="col-lg-3"> 
-		<div class="input-group" STYLE="position:relative; top:-10px; left:760px;" >
-		  <span class="input-group-btn">
-		  	<form align="right">
-
-<div id="player1">This text will be replaced</div> 
-<script type="text/javascript">
-var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','320','20','7'); 
-so.addParam('allowfullscreen','true'); 
-so.addVariable('file','mediaplayer/audios/danzahungara.mp3'); 
-so.addVariable('height','20'); 
-so.addVariable('width','320'); 
-so.write('player1'); 
-</script>
-			</form>
-		  </span>
-		</div><!-- /input-group -->
-		</div>
+		<div class="row" style=" position:relative; left:695px; top:-10px; ">
+		
+		
+		<div id="player">This text will be replaced</div>
+    <div  class="col-md-6" >
+      <script type="text/javascript">
+		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','420','20','7');
+		so.addParam('allowfullscreen','true');
+		so.addVariable('file','mediaplayer/audios/danzahungara.mp3');
+		so.addVariable('height','20');
+		so.addVariable('width','420');
+		so.addVariable('autostart','true');
+		so.write('player');
+	</script>
+        </div>
+     </div>
 		<br>
 		
 		
-		<div STYLE="position:relative; top:2px; left:55px; width:1100px;">
+		<div STYLE="position:relative; top:-18px; left:55px; width:1100px;">
 						
 					<div class="col-sm-6" STYLE="left:-69px; width:530px;" >
 									
