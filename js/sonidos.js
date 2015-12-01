@@ -35,3 +35,8 @@ function createsoundbite(sound){
 }
 
 var MOTHER=createsoundbite("whistle.ogg", "sonidos/Mother.wav")
+var MOTHER1=createsoundbite("whistle.ogg", "sonidos/Mother.wav")
+var MOTHER2=createsoundbite("whistle.ogg", "sonidos/Mother.wav")
+var MOTHER3=createsoundbite("whistle.ogg", "sonidos/Mother.wav")
+var MOTHER4=createsoundbite("whistle.ogg", "sonidos/Mother.wav")
+var MOTHER5=createsoundbite("whistle.ogg", "sonidos/Mother.wav")
