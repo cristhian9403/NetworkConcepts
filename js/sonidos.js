@@ -34,4 +34,4 @@ function createsoundbite(sound){
 	}
 }
 
-var MOTHER=createsoundbite("whistle.ogg", "sonidos/Mother.mp3")
+var MOTHER=createsoundbite("whistle.ogg", "sonidos/Mother.wav")
