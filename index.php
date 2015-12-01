@@ -80,7 +80,7 @@
 						
 							<div class="videogallery col-md-offset-4" >
 								
-							   <a class="voverlay" href="index_videolb/vdbplayer.swf?volume=100&url=video/muere_de_risa_con_las_imagenes_mas_creativas_hechas_con_photoshop.mp4" ><img src="index_videolb/thumbnails/logoemp.jpg"  class="img-rounded" style="border-style:double; border-width:5px;" /><span></span></a><span class="videolb"><a href="http://videolightbox.com">how to insert video in html</a> by VideoLightBox.com v3.1</span>
+							   <a class="voverlay" href="index_videolb/vdbplayer.swf?volume=100&url=video/muere_de_risa_con_las_imagenes_mas_creativas_hechas_con_photoshop.mp4" ><img src="index_videolb/thumbnails/logoemp.jpg"  class="img-rounded" style="border-style:double; border-width:5px;"  onclick="MOTHER.playclip()" onmouseover="primero.playclip()"/><span></span></a><span class="videolb"><a href="http://videolightbox.com">how to insert video in html</a> by VideoLightBox.com v3.1</span>
 							</div>
 												
 						   		
@@ -93,7 +93,7 @@
 					<div class="col-md-6" >
 											
 						<div class="col-md-offset-3">	
-							<label><img src="imagenes/logoUnivalle.png" alt="Chania" class="img-rounded" style="border-style:double; border-width:5px;" ></label>							
+							<label><img src="imagenes/logoUnivalle.png" alt="Chania" class="img-rounded" style="border-style:double; border-width:5px; border-color:white;"  ></label>						
 						</div>
 					</div>
 								
