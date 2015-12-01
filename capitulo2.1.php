@@ -79,9 +79,9 @@
 		</div>	
 		
 		<div class="col-lg-3"> 
-		<div class="input-group" STYLE="position:relative; top:10px; left:315px;" >
+		<div class="input-group" STYLE="position:relative; top:10px; left:390px;" >
 		  <span class="input-group-btn">
-		  	<form action="buscador/buscar.html" align="right">
+		  	<form action="buscador/buscar.html" align="right" class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()">
 			<button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Buscar</button>
 			</form>
 		  </span>
