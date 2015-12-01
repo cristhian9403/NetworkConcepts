@@ -95,14 +95,15 @@
 		<div class="input-group" STYLE="position:relative; top:-10px; left:760px;" >
 		  <span class="input-group-btn">
 		  	<form align="right">
-			<div id="player1">This text will be replaced</div> 
+
+<div id="player1">This text will be replaced</div> 
 <script type="text/javascript">
-	var so = new SWFObject('mediaplayer.swf','mpl','320','20','7'); 
-	so.addParam('allowfullscreen','true'); 
-	so.addVariable('file','audios/danzahungara.mp3'); 
-	so.addVariable('height','50'); 
-	so.addVariable('width','320'); 
-	so.write('player1'); 
+var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','320','20','7'); 
+so.addParam('allowfullscreen','true'); 
+so.addVariable('file','mediaplayer/audios/danzahungara.mp3'); 
+so.addVariable('height','20'); 
+so.addVariable('width','320'); 
+so.write('player1'); 
 </script>
 			</form>
 		  </span>
