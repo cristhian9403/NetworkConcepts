@@ -95,7 +95,7 @@
 
 
 			<div class="row" style=" position:relative; left:695px; top:-25px; ">
-		 <div id="player"  style="text-align: justify; " ><small><b>Activar y Desactivar el volumen</b></small></div>
+		 <div  style="text-align: justify; " ><small><b>     Activar y Desactivar el volumen</b></small></div>
 		 <div  class="col-md-6" >
 		
 	<div id="player"  style="text-align: justify; " ><small><b>Activar y Desactivar el volumen</b></small></div>
