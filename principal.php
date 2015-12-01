@@ -97,17 +97,20 @@
 		<div id="player">This text will be replaced</div>
     <div  class="col-md-6" >
       <script type="text/javascript">
-		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','420','20','7');
+		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','420','40','7');
 		so.addParam('allowfullscreen','true');
 		so.addVariable('file','mediaplayer/audios/danzahungara.mp3');
-		so.addVariable('height','20');
-		so.addVariable('width','420');
+		so.addVariable('backcolor','0xCCCCFF');
+		so.addVariable('lightcolor','0x99FFFF');
+		so.addVariable('largecontrols','true');
 		so.addVariable('autostart','true');
 		so.write('player');
 	</script>
         </div>
      </div>
 		<br>
+
+
 		
 		
 		<div STYLE="position:relative; top:-18px; left:55px; width:1100px;">
