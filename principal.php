@@ -92,17 +92,18 @@
 		</div>	
 		
 		<div class="row" style=" position:relative; left:695px; top:-10px; ">
-		
+		 <div  class="col-md-6" >
 		
 	<div id="player">This text will be replaced</div>
-    <div  class="col-md-6" >
+   
       <script type="text/javascript">
-		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','420','40','7');
+		var so = new SWFObject('mediaplayer/mediaplayer.swf','mpl','320','20','7');
 		so.addParam('allowfullscreen','true');
 		so.addVariable('file','mediaplayer/audios/danzahungara.mp3');
+		so.addVariable('height','20');
+		so.addVariable('width','320');
 		so.addVariable('backcolor','0xCCCCFF');
 		so.addVariable('lightcolor','0x99FFFF');
-		so.addVariable('largecontrols','true');
 		so.addVariable('autostart','true');
 		so.write('player');
 	</script>
