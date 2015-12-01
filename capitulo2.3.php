@@ -12,6 +12,7 @@
     <meta name="author" content="">
     <script src="js/jquery.js"></script>
 	<script src="js/letra.js"></script>
+	<script src="js/sonidos.js"></script>
 	
 	<link href="css/estilo.css" rel="stylesheet">
 	<link href="css/carrousell.css" rel="stylesheet" type="text/css">
