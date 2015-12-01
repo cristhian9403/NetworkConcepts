@@ -52,9 +52,9 @@
 		<div STYLE="position:relative; top:10px; left:1px; width:1052px;">
 		
 		<div align="left">
-			<a onClick="accesibiliza()" class="btn">Contraste</a>
-			<a href="javascript:decreaseFontSize();" class="btn">Disminuir el Tamano A-</a> 
-			<a href="javascript:increaseFontSize();" class="btn">Aumentar el Tamano A+</a>
+			<a onClick="accesibiliza(); MOTHER.playclip()" class="btn">Contraste</a>
+			<a onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="javascript:decreaseFontSize();" class="btn">Disminuir el Tamano A-</a> 
+			<a onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="javascript:increaseFontSize();" class="btn">Aumentar el Tamano A+</a>
 		</div>	
 		</div>	
 		<br>

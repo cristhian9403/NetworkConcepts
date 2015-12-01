@@ -65,9 +65,9 @@
 		<div STYLE="position:relative; top:10px; left:-14px; width:1050px;">
 		
 		<div class="col-lg-6">
-			<a onClick="accesibiliza()" class="btn">Contraste</a>
-			<a href="javascript:decreaseFontSize();" class="btn">Disminuir el Tamano A-</a> 
-			<a href="javascript:increaseFontSize();" class="btn">Aumentar el Tamano A+</a>
+			<a onClick="accesibiliza(); MOTHER.playclip()" class="btn">Contraste</a>
+			<a  onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="javascript:decreaseFontSize();" class="btn">Disminuir el Tamano A-</a> 
+			<a  onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="javascript:increaseFontSize();" class="btn">Aumentar el Tamano A+</a>
 		
 		</div>	
 	
@@ -204,10 +204,10 @@
 		
   <ul class="pager" >
     
-    <li class="next"><a href="capitulo2.php"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
-	<li ><a target="_blank" onclick="MOTHER.playclip()" href="diccionario.pdf"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
-	<li ><a target="_blank" onclick="MOTHER.playclip()" href="https://www.dropbox.com/s/98ds8r8zq29rh3z/Cisco_Packet_Tracer_6.1_for_Windows.exe?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
-	<li  ><a href="principal.php"><img src="imagenes/home.png"><span aria-hidden="true"><font color="#000080" > Inicio</font></span></a></li>
+    <li class="next"><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="capitulo2.php"><span aria-hidden="false"><img src="imagenes/right1.png"></span></a></li>
+	<li ><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()" target="_blank" onclick="MOTHER.playclip()" href="diccionario.pdf"><img src="imagenes/dictionary.png"><span aria-hidden="true"><font color="#000080" > Diccionario</font></span></a></li>
+	<li ><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()" target="_blank" onclick="MOTHER.playclip()" href="https://www.dropbox.com/s/98ds8r8zq29rh3z/Cisco_Packet_Tracer_6.1_for_Windows.exe?dl=0"><img src="imagenes/download1.png"><span aria-hidden="true"><font color="#000080" >Simulador</font></span></a></li>
+	<li  ><a class="zoom sobre img-circle" onclick="MOTHER.playclip()" onmouseover="primero.playclip()" href="principal.php"><img src="imagenes/home.png"><span aria-hidden="true"><font color="#000080" > Inicio</font></span></a></li>
   </ul>
   
   
